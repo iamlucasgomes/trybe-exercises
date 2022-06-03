@@ -18,7 +18,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 1.3 - Unix & Bash - Parte 1
 - [x] 1.4 - Unix & Bash - Parte 2
 
-##### Bloco 2: Git, GitHub e Internet  <img src="assets/img/hug.gif" alt="ampulheta" width="20px" >
+##### Bloco 2: Git, GitHub e Internet  <img src="assets/img/hug.gif" alt="ampulheta" max-width="20px" >
 - [x] 2.1 - Git & GitHub  - O que é e para que serve
 - [ ] 2.2 - Git & GitHub - Entendendo os comandos
 - [ ] 2.3 - Internet - Entendendo como ela funciona
@@ -276,7 +276,7 @@ This resource contains all the learning activities developed by [me](https://www
 - [x] 1.3 - Unix & Bash - Part 1
 - [x] 1.4 - Unix & Bash - Part 2
 
-##### Block 2: Git, GitHub and the Internet  <img src="assets/img/hug.gif" alt="hug" width="20px" >
+##### Block 2: Git, GitHub and the Internet  <img src="assets/img/hug.gif" alt="hug" max-width="20px" >
 - [x] 2.1 - Git & GitHub - What is it and what is it for
 - [ ] 2.2 - Git & GitHub - Understanding commands
 - [ ] 2.3 - Internet - Understanding how it works
