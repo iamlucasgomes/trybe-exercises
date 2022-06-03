@@ -12,7 +12,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Fundamentos do Desenvolvimento Web 
 
-##### Bloco 1: Unix, Bash e Shell Script  <img src="assets/img/check.gif" alt="Check" max-width="20px">
+##### Bloco 1: Unix, Bash e Shell Script  <img src="assets/img/check.gif" alt="Check" width="20px" >
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
 - [x] 1.3 - Introdução - Unix & Shell
 - [x] 1.3 - Unix & Bash - Parte 1
