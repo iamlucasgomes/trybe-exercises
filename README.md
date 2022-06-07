@@ -5,7 +5,7 @@
 <div align="right"><a target="_blank" aria-current="page" href="#EN">🇺🇸</a></div>
 
 
-Este repositório contém todos os projetos desenvolvidos por [mim](https://www.linkedin.com/in/iamlucasgomes/) enquanto estudava na [Trybe](https://www.betrybe.com/) <img src="assets/img/hacker.gif" alt="Hacker" width="20px">
+Este repositório contém todos os exercicios e projetos desenvolvidos por [mim](https://www.linkedin.com/in/iamlucasgomes/) enquanto estudava na [Trybe](https://www.betrybe.com/) <img src="assets/img/hacker.gif" alt="Hacker" width="20px">
 
 > <em> A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
 > O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. </em>
@@ -263,7 +263,7 @@ Este repositório contém todos os projetos desenvolvidos por [mim](https://www.
 
 <div align="right"><a target="_blank" aria-current="page" href="#pt-BR">🇧🇷</a></div>
 
-This repository contains all projects developed by [me](https://www.betrybe.com/) while studying at [Trybe](http://www.betrybe.com/) <img src="assets/img/hacker.gif" alt="Hacker" width="20px">
+This repository contains all exercises and projects developed by [me](https://www.linkedin.com/in/iamlucasgomes/) while studying at [Trybe](http://www.betrybe.com/) <img src="assets/img/hacker.gif" alt="Hacker" width="20px">
 
 > <em> Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where people only pay when they get a good job.
 > The program has more than 1,500 hours of classroom and online classes and introduction to software development, front-end, back-end, computer science, software engineering, agile and behavioral methodologies. </em>
