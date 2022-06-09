@@ -24,9 +24,9 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 2.3 - Internet - Entendendo como ela funciona
 
 ##### Bloco 3: Introdução à HTML e CSS ![loading](assets/img/hug.gif)
-- [ ] 3.1 - Introdução - HTML & CSS
-- [ ] 3.1 - HTML & CSS - Estruturas de página
-- [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
+- [x] 3.1 - Introdução - HTML & CSS
+- [x] 3.1 - HTML & CSS - Estruturas de página
+- [x] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [ ] 3.3 - HTML & CSS - Seletores e posicionamento
 - [ ] 3.4 - HTML Semântico
 - [ ] 3.5 - Projeto - Lessons Learned
@@ -282,9 +282,9 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 2.3 - Internet - Understanding how it works
 
 ##### Block 3: Introduction to HTML and CSS ![loading](assets/img/hug.gif) 
-- [ ] 3.1 - Introduction - HTML & CSS
-- [ ] 3.1 - HTML & CSS - Page Structures
-- [ ] 3.2 - HTML & CSS - CSS Getting Started
+- [x] 3.1 - Introduction - HTML & CSS
+- [x] 3.1 - HTML & CSS - Page Structures
+- [x] 3.2 - HTML & CSS - CSS Getting Started
 - [ ] 3.3 - HTML & CSS - Selectors and Positioning
 - [ ] 3.4 - Semantic HTML
 - [ ] 3.5 - Project - Lessons Learned
