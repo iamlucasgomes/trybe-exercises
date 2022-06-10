@@ -1,0 +1,52 @@
+li {
+    background-color: yellow;
+    font-size: 20px;
+}
+li:nth-child(even){
+    color: green;
+}
+li:nth-child(odd){
+    text-transform: uppercase;
+}
+li em{
+    font-weight: bold;
+}
+.header{
+    color: red;
+}
+.header em{
+    font-size: 40px;
+    border: 1px solid black;
+    content: " Novo!"; 
+}
+#list-lang li:nth-child(-n+3){
+    color: blue;
+}
+li span {
+    background-color: pink;
+  }
+  #allies li{
+      background-color:darkgray ;
+  }
+  #allies a{
+      text-decoration: none;
+      color: white;
+  }
+  #allies li:hover{
+      font-weight: bold;
+  }
+  #allies li:hover:nth-child(1) a{
+    color: orange;
+}
+#allies li:hover:nth-child(2) a{
+    color: green;
+}
+#allies li:hover:nth-child(3) a{
+    color: black;
+}
+#allies li:hover:nth-child(4) a{
+    color: yellow;
+}
+#allies li:hover:nth-child(5) a{
+    color: darkgreen;
+}
