@@ -1,0 +1,19 @@
+body{
+    background-color: #5ed8fe;
+    color: #ffffff;
+}
+main{
+    margin: auto;
+    width: 75%;
+    border: thick double #ffffff;
+}
+li{
+}
+aside{
+    position: fixed;
+}
+footer{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
