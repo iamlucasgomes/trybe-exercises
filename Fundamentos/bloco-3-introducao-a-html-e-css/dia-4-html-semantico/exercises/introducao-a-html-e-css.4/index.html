@@ -7,43 +7,74 @@
   <link rel="stylesheet" href="style.css">
   <title>Soco a 80km/h: Conheça o Stomatopoda</title>
 </head>
-
 <body>
   <header>
-    <aside>
-    <nav>
-    <ul>
-    <li><a href="#">Página Inicial</a></li>
-    <li><a href="#">Sobre</a></li>
-    <li><a href="#">Contato</a></li>
-  </ul>
-</nav>
-</aside>
+    <aside id="menu">
+      <nav>
+        <ul>
+          <li><a href="index.html">Página Inicial</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+      </nav>
+    </aside>
+    <aside id="referencia">
+      <nav>
+        <ul>
+          <li><a href="https://pt.wikipedia.org/wiki/Stomatopoda" target="_blank">Wikipedia</a></li>
+          <li><a href="https://www.aquaa3.com.br/curiosidades-camarao-mantis/" target="_blank">aquaa3</a></li>
+          <li><a href="https://theoatmeal.com/comics/mantis_shrimp" target="_blank">The Oatmeal</a></li>
+        </ul>
+      </nav>
+    </aside>
   </header>
   <main>
     <article>
-      <h2>Stomatopoda</h2>
-      <h3>Fatos sobre o Stomatopoda</h3>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/E0Li1k5hGBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <section>
-        <h2>Informações Gerais</h2>
-        <h3>
-          Alguns fatos sobre o Stomatopoda
-        </h3>
+      <section class="titulos">
+        <h1>Stomatopoda</h1>
+        <iframe width="560" height="300" src="https://www.youtube.com/embed/E0Li1k5hGBE" title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       </section>
       <section>
-        <h2>Curiosidades:</h2>
-        <section>
-          <img src="assets/img/stomatopoda-visao.png" alt="animal com melhor visão do mundo"><br>Fonte: AquaA3
-          <h3>Visão</h3>
-          <p>
-          <p>
+        <h2 id="gerais">Informações Gerais</h2>
+        <table>
+          <tr>
+              <td>Reino</td>
+              <td>Filo</td>
+              <td>Subfilo</td>
+              <td>Classe</td>
+              <td>Subclasse</td>
+              <td>Ordem</td>
+          </tr>
+          <tr>
+              <td>Animalia</td>
+              <td>Arthropoda</td>
+              <td>Crustacea</td>
+              <td>Malacostraca</td>
+              <td>Hoplocarida</td>
+              <td>Stomatopoda</td>
+          </tr>
+      </table>
+      </section>
+      <section id="curiosidades">
+        <section class="espaçamento">
+          <h2>
+            Algumas curiosidades sobre o Stomatopoda
+          </h2>
+          <img class="imagem" src="assets/img/stomatopoda-visao.png" alt="animal com melhor visão do mundo"><strong class="fonte1">Foto via: AquaA3</strong>
+          <h3 class="format">Visão</h3>
+          <p class="format">
+          <p class="format">
             Esses animais possuem o mais complexo sistema de visão de cores do mundo animal, pois enxergam 12 cores
             primárias, correspondentes aos 12 pigmentos distintos presentes em sua retina.
           </p>
-          <p>
-            <em>Nossos olhos possuem três tipos desses receptores - que correspondem à luz azul, verde e vermelha -, que nos
-            permitem perceber o espectro de cores que vemos</em>. Os cães contam com apenas dois tipos de cones (verde e
+          <p class="format">
+            <em>Nossos olhos possuem três tipos desses receptores - que correspondem à luz azul, verde e vermelha -, que
+              nos
+              permitem perceber o espectro de cores que vemos</em>. Os cães contam com apenas dois tipos de cones (verde
+            e
             azul), e é por isso que eles vêm tons de azul, verde e um pouco de amarelo. Muitos anfíbios, répteis, aves e
             insetos possuem quatro tipo de cones, o que significa que espécies dessas classes conseguem ver cores que o
             nosso cérebro é incapaz de processar. Algumas espécies específicas de borboletas e possivelmente pombos
@@ -54,7 +85,7 @@
               multiespectrais.[6]
             </strong>
           </p>
-          <p>
+          <p class="format">
             Como cada cone pode ver cerca de 100 cores, <strong>
               os estomatópodes são capazes de ver 1024 cores, ou seja, 1
               septilhão de cores. Em comparação, o olho humano vê 106 cores, ou seja, 1 milhão de cores apenas.
@@ -66,14 +97,15 @@
           </p>
         </section>
         <section>
-          <img src="assets/img/stomatopoda-punch.png" alt="Animal com o soco mais forte do mundo"><br>Fonte: AquaA3
-          <h3>Soco</h3>
-          <p>
-          <P>
+          <img class="imagem" src="assets/img/stomatopoda-punch.png" alt="Animal com o soco mais forte do mundo">
+          <strong class="fonte2">Foto via: AquaA3</strong>
+          <h3 class="format">Soco</h3>
+          <p class="format">
+          <P class="format">
             O Stomatopoda possui dois apêndices bem desenvolvidos (semelhantes a um martelo), chamados de Porretes de
             Dáctilo.
           </P>
-          <P>
+          <P class="format">
             Com essas <em>“super patas”</em> <strong>
               o animal espanca e esmaga suas presas em uma intensidade de
               aproximadamente 60 kg/cm²
@@ -89,4 +121,5 @@
   </footer>
 </body>
 <script src="assets/js/script.js"></script>
+
 </html>
