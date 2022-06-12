@@ -27,8 +27,8 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 3.1 - Introdução - HTML & CSS
 - [x] 3.1 - HTML & CSS - Estruturas de página
 - [x] 3.2 - HTML & CSS - Primeiros passos em CSS
-- [ ] 3.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 3.4 - HTML Semântico
+- [x] 3.3 - HTML & CSS - Seletores e posicionamento
+- [x] 3.4 - HTML Semântico
 - [ ] 3.5 - Projeto - Lessons Learned
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
@@ -285,8 +285,8 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 3.1 - Introduction - HTML & CSS
 - [x] 3.1 - HTML & CSS - Page Structures
 - [x] 3.2 - HTML & CSS - CSS Getting Started
-- [ ] 3.3 - HTML & CSS - Selectors and Positioning
-- [ ] 3.4 - Semantic HTML
+- [x] 3.3 - HTML & CSS - Selectors and Positioning
+- [x] 3.4 - Semantic HTML
 - [ ] 3.5 - Project - Lessons Learned
 
 ##### Block 4: Introduction to JavaScript and Programming Logic
