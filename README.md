@@ -23,15 +23,15 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 2.2 - Git & GitHub - Entendendo os comandos
 - [x] 2.3 - Internet - Entendendo como ela funciona
 
-##### Bloco 3: Introdução à HTML e CSS ![loading](assets/img/hug.gif)
+##### Bloco 3: Introdução à HTML e CSS <img src="assets/img/check.gif" alt="Check" width="20px" >
 - [x] 3.1 - Introdução - HTML & CSS
 - [x] 3.1 - HTML & CSS - Estruturas de página
 - [x] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [x] 3.3 - HTML & CSS - Seletores e posicionamento
 - [x] 3.4 - HTML Semântico
-- [ ] 3.5 - Projeto - Lessons Learned
+- [x] 3.5 - Projeto - Lessons Learned
 
-##### Bloco 4: Introdução à JavaScript e Lógica de Programação
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação ![loading](assets/img/hug.gif)
 - [ ] 4.1 - Introdução - JavaScript
 - [ ] 4.1 - JavaScript - Primeiros passos
 - [ ] 4.2 - JavaScript - Array e loop For
@@ -281,15 +281,15 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 2.2 - Git & GitHub - Understanding commands
 - [x] 2.3 - Internet - Understanding how it works
 
-##### Block 3: Introduction to HTML and CSS ![loading](assets/img/hug.gif) 
+##### Block 3: Introduction to HTML and CSS <img src="assets/img/check.gif" alt="Check" width="20px" >
 - [x] 3.1 - Introduction - HTML & CSS
 - [x] 3.1 - HTML & CSS - Page Structures
 - [x] 3.2 - HTML & CSS - CSS Getting Started
 - [x] 3.3 - HTML & CSS - Selectors and Positioning
 - [x] 3.4 - Semantic HTML
-- [ ] 3.5 - Project - Lessons Learned
+- [x] 3.5 - Project - Lessons Learned
 
-##### Block 4: Introduction to JavaScript and Programming Logic
+##### Block 4: Introduction to JavaScript and Programming Logic ![loading](assets/img/hug.gif) 
 - [ ] 4.1 - Introduction - JavaScript
 - [ ] 4.1 - JavaScript - Getting Started
 - [ ] 4.2 - JavaScript - Array and For loop
