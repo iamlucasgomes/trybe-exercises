@@ -35,8 +35,8 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 4.1 - Introdução - JavaScript
 - [x] 4.1 - JavaScript - Primeiros passos
 - [x] 4.2 - JavaScript - Array e loop For
-- [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funções
+- [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
+- [x] 4.4 - JavaScript - Objetos e funções
 - [ ] 4.5 - Projeto - Playground Functions
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
@@ -293,8 +293,8 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 4.1 - Introduction - JavaScript
 - [x] 4.1 - JavaScript - Getting Started
 - [x] 4.2 - JavaScript - Array and For loop
-- [ ] 4.3 - JavaScript - Programming Logic and Algorithms
-- [ ] 4.4 - JavaScript - Objects and functions
+- [x] 4.3 - JavaScript - Programming Logic and Algorithms
+- [x] 4.4 - JavaScript - Objects and functions
 - [ ] 4.5 - Project - Playground Functions
 
 ##### Block 5: JavaScript: DOM, Events and Web Storage
