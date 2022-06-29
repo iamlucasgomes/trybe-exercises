@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <h2 id="page-title">Título</h2>
+      <p id="paragraph">Dê uma cor para este parágrafo!</p>
+      <h4 id="subtitle">Subtítulo</h4>
+      <p id="second-paragraph">Segundo parágrafo!</p>
+      <p class="equal">“Amortecer a dor por algum tempo só vai torná-la pior quando você realmente sentir, Alvo Dumbledore em “Harry Potter e o Cálice de Fogo”.</p>
+      <p class="equal">Não vale a pena viver sonhando e se esquecer de viver”, Alvo Dumbledore em “Harry Potter e a Pedra Filosofal”.</p>
+    </header>
+    <script>
+      const paragraph = document.getElementById("paragraph");
+      paragraph.style.color = "red";
+      const pageTitle = document.getElementById("page-title").innerText = 'Harry Potter';
+      const paragraph2 = document.getElementById("second-paragraph").innerText = 'São as nossas escolhas, mais do que as nossas capacidades, que mostram quem realmente somos';
+      const subtitle = document.getElementById("subtitle").innerText = 'Frase de Alvo Dumbledore em “Harry Potter e a Câmara Secreta”.';
+      const paragraphEqual = document.getElementsByClassName("equal");
+
+      for (let index = 0; index < paragraphEqual.length; index++) {
+        paragraphEqual[index].innerText;
+      }  
+      paragraphEqual[0].style.color = 'blue';
+      const subtitlesH4 = document.getElementsByTagName('h4');
+      subtitlesH4[0].style.color = 'Green';
+      </script>
+  </body>
+</html>
