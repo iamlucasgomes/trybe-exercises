@@ -24,7 +24,24 @@ const SonsSonsFirstSon = document.getElementsByClassName('paragraph');
 
 SonsSonsFirstSon[0].parentElement.parentElement.nextElementSibling;
 
+const fathersFather = document.getElementById('paiDoPai');
 
+function removeElements() {
+  for (const elements of father.children) {
+    if(elements.id !== 'elementoOndeVoceEsta'){
+      elements.remove();
+    }
+    for (const elements of where.children) {
+      if(elements.id !== 'primeiroFilhoDoFilho')  {
+        elements.remove();
+      }
+    }
+  } console.log(father.children);
+}
+
+removeElements();
+
+document.getElementById('quartoEUltimoFilho').remove();
 
 // Acesse o elemento elementoOndeVoceEsta. - OK
 // Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele. - OK
@@ -38,6 +55,7 @@ SonsSonsFirstSon[0].parentElement.parentElement.nextElementSibling;
 // Crie um filho para elementoOndeVoceEsta. -OK
 // Crie um filho para primeiroFilhoDoFilho. -OK
 // A partir desse filho criado, acesse terceiroFilho. -OK
+// Remova todos os elementos filhos de paiDoPai exceto pai, elementoOndeVoceEsta e primeiroFilhoDoFilho. -OK
 
 
 // parentNode: retorna o nó pai.
