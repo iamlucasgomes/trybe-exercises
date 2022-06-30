@@ -46,7 +46,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage ![loading](assets/img/hug.gif)
 
 - [x] 5.1 - JavaScript - DOM e seletores
-- [ ] 5.2 - JavaScript - Trabalhando com elementos
+- [x] 5.2 - JavaScript - Trabalhando com elementos
 - [ ] 5.3 - JavaScript - Eventos
 - [ ] 5.4 - JavaScript - Web Storage
 - [ ] 5.5 - Fundamentos - JavaScript - Projetos
@@ -342,7 +342,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 ##### Block 5: JavaScript: DOM, Events and Web Storage ![loading](assets/img/hug.gif) 
 
 - [x] 5.1 - JavaScript - DOM and selectors
-- [ ] 5.2 - JavaScript - Working with elements
+- [x] 5.2 - JavaScript - Working with elements
 - [ ] 5.3 - JavaScript - Events
 - [ ] 5.4 - JavaScript - Web Storage
 - [ ] 5.5 - Fundamentals - JavaScript - Projects
