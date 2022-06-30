@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Exercício 5.2</title>
+  <style>
+    section {
+      border-color: black;
+      border-style: solid;
+    }
+
+    .title {
+      text-align: center;
+    }
+
+    .main-content {
+      background-color: yellow;
+    }
+
+    .main-content .center-content {
+      background-color: red;
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .main-content .center-content p {
+      font-style: italic;
+    }
+
+    .main-content .left-content {
+      background-color: green;
+      width: 60%;
+      margin-left: 0;
+      margin-right: auto;
+    }
+
+    .main-content .left-content .small-image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 100%;
+    }
+
+    .main-content .right-content {
+      background-color: blue;
+      width: 60%;
+      margin-left: auto;
+      margin-right: 0;
+    }
+
+    .main-content .description {
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <script>
+    const header1 = document.createElement('h1');
+    const main = document.createElement('main');
+    const centerSection = document.createElement('section');
+    const leftSection = document.createElement('section');
+    const rightSection = document.createElement('section');
+    const paragraph = document.createElement('p');
+    const imgSmall = document.createElement('img');
+    const ordList = document.createElement('ol');
+    const principal = document.getElementsByClassName('main-content');
+    const centerContent = document.getElementsByClassName('center-content');
+    const leftContent = document.getElementsByClassName('left-content');
+    const rightContent = document.getElementsByClassName('right-content');
+    const orderList = document.getElementsByClassName('order-list');
+
+    header1.innerHTML = 'Exercício 5.2 - JavaScript DOM';
+    document.body.appendChild(header1);
+
+    main.className = 'main-content';
+    document.body.appendChild(main)
+
+    centerSection.className = 'center-content';
+    principal[0].appendChild(centerSection);
+
+    paragraph.innerHTML = '<strong> AQUI SOU EUUUU!!! LUCAS!!!</strong>'
+    centerContent[0].appendChild(paragraph);
+
+    leftSection.className = 'left-content'
+    principal[0].appendChild(leftSection);
+
+    rightSection.className = 'right-content'
+    principal[0].appendChild(rightSection);
+
+    imgSmall.src = 'https://picsum.photos/200';
+    imgSmall.className = 'small-image'
+    leftContent[0].appendChild(imgSmall);
+
+    rightContent[0].appendChild(ordList);
+    ordList.className = 'order-list';
+
+    for (let index = 0; index < 10; index += 1) {
+      let listItems = document.createElement('li');
+      ordList.appendChild(listItems);
+    }
+
+    for (let index = 0; index < 3; index += 1) {
+      let header3 = document.createElement('h3');
+      principal[0].appendChild(header3);
+      header3.className = 'description';
+    }
+
+    header1.className = 'title';
+    principal[0].removeChild(principal[0].childNodes[1]);
+
+    rightContent[0].style.cssText =
+    'margin-right: auto;'
+
+    centerContent[0].style.backgroundColor = 'rgb(28,107,81)';
+
+    orderList[0].lastChild.remove();
+    orderList[0].lastChild.remove();
+
+    </script>
+</body>
+
+</html>
