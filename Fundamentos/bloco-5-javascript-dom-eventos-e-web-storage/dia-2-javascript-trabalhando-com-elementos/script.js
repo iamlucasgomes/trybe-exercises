@@ -4,13 +4,25 @@ const father = document.getElementById('pai');
 
 where.parentNode.style.color = 'Blue';
 firstSonOfSon.innerText = 'Aula complicada a frente';
-console.log(father.firstElementChild);
-console.log(where.previousElementSibling);
-console.log(where.nextSibling)
-console.log(where.nextElementSibling)
-console.log(father.lastElementChild.previousElementSibling)
+father.firstElementChild;
+where.previousElementSibling;
+where.nextSibling;
+where.nextElementSibling;
+father.lastElementChild.previousElementSibling;
 
 
+const createSection = document.createElement('section');
+const createDiv = document.createElement('div');
+const paragraph = document.createElement('p');
+paragraph.className = 'paragraph';
+
+father.append(createSection);
+where.append(createDiv);
+firstSonOfSon.appendChild(paragraph);
+
+const SonsSonsFirstSon = document.getElementsByClassName('paragraph');
+
+SonsSonsFirstSon[0].parentElement.parentElement.nextElementSibling;
 
 
 
@@ -22,6 +34,11 @@ console.log(father.lastElementChild.previousElementSibling)
 // Agora acesse o texto Atenção! a partir de elementoOndeVoceEsta. - OK
 // Agora acesse o terceiroFilho a partir de elementoOndeVoceEsta. -OK
 // Agora acesse o terceiroFilho a partir de pai.  -OK
+// Crie um irmão para elementoOndeVoceEsta. -OK
+// Crie um filho para elementoOndeVoceEsta. -OK
+// Crie um filho para primeiroFilhoDoFilho. -OK
+// A partir desse filho criado, acesse terceiroFilho. -OK
+
 
 // parentNode: retorna o nó pai.
 // parentElement: retorna o elemento pai.
