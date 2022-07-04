@@ -66,12 +66,12 @@
     const rightSection = document.createElement('section');
     const paragraph = document.createElement('p');
     const imgSmall = document.createElement('img');
-    const ordList = document.createElement('ol');
+    const unordList = document.createElement('ul');
     const principal = document.getElementsByClassName('main-content');
     const centerContent = document.getElementsByClassName('center-content');
     const leftContent = document.getElementsByClassName('left-content');
     const rightContent = document.getElementsByClassName('right-content');
-    const orderList = document.getElementsByClassName('order-list');
+    const unorderedList = document.getElementsByClassName('unordered-list');
 
     header1.innerHTML = 'Exercício 5.2 - JavaScript DOM';
     document.body.appendChild(header1);
@@ -95,12 +95,14 @@
     imgSmall.className = 'small-image'
     leftContent[0].appendChild(imgSmall);
 
-    rightContent[0].appendChild(ordList);
-    ordList.className = 'order-list';
+    rightContent[0].appendChild(unordList);
+    unordList.className = 'unordered-list';
 
-    for (let index = 0; index < 10; index += 1) {
+    const num = ['um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez'];
+    for (let index = 0; index < num.length; index += 1) {
       let listItems = document.createElement('li');
-      ordList.appendChild(listItems);
+      listItems.innerText = num[index];
+      unordList.appendChild(listItems);
     }
 
     for (let index = 0; index < 3; index += 1) {
@@ -117,8 +119,8 @@
 
     centerContent[0].style.backgroundColor = 'rgb(28,107,81)';
 
-    orderList[0].lastChild.remove();
-    orderList[0].lastChild.remove();
+    unorderedList[0].lastChild.remove();
+    unorderedList[0].lastChild.remove();
 
     </script>
 </body>
