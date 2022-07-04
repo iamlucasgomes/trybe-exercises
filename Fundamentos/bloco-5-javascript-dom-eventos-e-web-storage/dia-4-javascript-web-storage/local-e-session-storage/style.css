@@ -1,6 +1,6 @@
 @font-face {
   font-family: DauphinPlain;
-  src: url(/dia-4-javascript-web-storage/local-e-session-storage/Dauphin.ttf);
+  src: url('/Dauphin.ttf');
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
@@ -43,8 +43,6 @@ h5 {
 }
 .parent {
   display: grid;
-  /* grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr); */
   box-sizing: border-box;
   grid-column-gap: 25px;
   grid-row-gap: 0;
