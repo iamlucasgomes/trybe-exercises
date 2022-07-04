@@ -118,8 +118,6 @@ h5 {
   font-family: 'Cinzel', serif;
 }
 
-/* From uiverse.io by @alexruix */
-/* The switch - the box around the slider */
 .switch {
   font-size: 17px;
   position: relative;
@@ -128,14 +126,12 @@ h5 {
   height: 2em;
 }
 
-/* Hide default HTML checkbox */
 .switch input {
   opacity: 0;
   width: 0;
   height: 0;
 }
 
-/* The slider */
 .slider {
   --background: #28096b;
   position: absolute;
@@ -172,23 +168,21 @@ input:checked + .slider:before {
   box-shadow: inset 15px -4px 0px 15px #fff000;
 }
 
-/* Style The Dropdown Button */
 .dropbtn {
-  background-color: #4CAF50;
-  color: white;
+  background-color: rgb(248,248,255);
+  color: rgb(28,28,28);
   padding: 16px;
   font-size: 16px;
   border: none;
   cursor: pointer;
+  margin-left: 1185%;
 }
 
-/* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
   display: inline-block;
 }
 
-/* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -198,7 +192,6 @@ input:checked + .slider:before {
   z-index: 1;
 }
 
-/* Links inside the dropdown */
 .dropdown-content a {
   color: black;
   padding: 12px 16px;
@@ -206,15 +199,12 @@ input:checked + .slider:before {
   display: block;
 }
 
-/* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #f1f1f1}
 
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
-/* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+  background-color: rgb(248,248,255);
 }
