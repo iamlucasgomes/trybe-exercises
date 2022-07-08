@@ -80,12 +80,17 @@ validation
     rule: 'maxLength',
     value: 50,
   },
-  ]);
-  validation
+  ])
   .addField('#description', [
   {
     rule: 'maxLength',
     value: 500,
     errorMessage: 'O campo deve conter no máximo 500 caracteres'
   },
-  ]);
+  ])
+  .addField('#termo1', [
+    {
+      rule: 'required',
+      errorMessage: 'O campo deve ser marcado'
+    },
+    ]);
