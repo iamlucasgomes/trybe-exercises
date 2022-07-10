@@ -1,4 +1,4 @@
-// const submit = document.querySelector('#submit');
+const submit = document.querySelector('#submit');
 // const nome = document.querySelector('#nome');
 // const email = document.querySelector('#email');
 // const termo = document.querySelector('#termo1');
@@ -26,15 +26,13 @@ var date = new Pikaday({
   field: document.getElementById('data'),
   format: 'D/M/YYYY',
   toString(date, format) {
-      // you should do formatting based on the passed format,
-      // but we will just return 'D/M/YYYY' for simplicity
+
       const day = date.getDate();
       const month = date.getMonth() + 1;
       const year = date.getFullYear();
       return `${day}/${month}/${year}`;
   },
   parse(dateString, format) {
-      // dateString is the result of `toString` method
       const parts = dateString.split('/');
       const day = parseInt(parts[0], 10);
       const month = parseInt(parts[1], 10) - 1;
@@ -43,54 +41,71 @@ var date = new Pikaday({
   }
 });
 
-const validate = new window.JustValidate('#form');
-const validation = new JustValidate('#form');
 
-validation
-  .addField('#nome', [
-    {
-      rule: 'minLength',
-      value: 10,
-      errorMessage: 'O campo deve conter no mínimo 10 caracteres'
-    },
-    {
-      rule: 'maxLength',
-      value: 40,
-      errorMessage: 'O campo deve conter no máximo 40 caracteres'
-    },
-    {
-      rule: 'required',
-      errorMessage: 'Por favor, preencha seu nome!',
-    },
-  ])
-  .addField('#email', [
-    {
-      rule: 'required',
-      errorMessage: 'Email é obrigatorio',
-    },
-    {
-      rule: 'email',
-      errorMessage: 'Email inválido',
-    },
-    {
-    rule: 'minLength',
-    value: 10,
-  },
-  {
-    rule: 'maxLength',
-    value: 50,
-  },
-  ])
-  .addField('#description', [
-  {
-    rule: 'maxLength',
-    value: 500,
-    errorMessage: 'O campo deve conter no máximo 500 caracteres'
-  },
-  ])
-  .addField('#termo1', [
-    {
-      rule: 'required',
-      errorMessage: 'O campo deve ser marcado'
-    },
-    ]);
+function validation() {
+  $('#form')
+  .form({
+    fields: {
+      name: {
+        identifier: 'nome-completo',
+        rules: [
+          {
+            type   : 'empty',
+            prompt : 'Por favor insira seu nome'
+          },
+          {
+            type   : 'minLength[10]',
+            prompt : 'Seu nome deve ter pelo menos {ruleValue} caracteres'
+          },
+          {
+            type   : 'maxLength[40]',
+            prompt : 'Seu nome deve ter menos de {ruleValue} caracteres'
+          }
+        ]
+      },
+      email: {
+        identifier  : 'e-mail',
+        rules: [
+          {
+            type   : 'email',
+            prompt : 'Por favor, insira um email valido'
+          },
+          {
+            type   : 'minLength[10]',
+            prompt : 'Seu email deve ter pelo menos {ruleValue} caracteres'
+          },
+          {
+            type   : 'maxLength[50]',
+            prompt : 'Seu email deve ter menos de {ruleValue} caracteres'
+          }
+        ]
+      },
+      fields: {
+        identifier  : 'descricao',
+        rules: [
+          {
+            type   : 'maxLength[500]',
+            prompt : 'Sua resposta deve ter menos de {ruleValue} caracteres'
+          }
+        ]
+      },
+      checkbox: {
+        identifier  : 'termo1',
+        rules: [
+          {
+            type   : 'checked',
+            prompt : 'Por favor, marque que concorda que as imagens das suas férias poderão ser usadas na divulgação de concursos futuros'
+          }
+        ]
+      }
+    }
+  })
+;
+}
+
+
+validation();
+
+
+
+
