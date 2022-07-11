@@ -52,7 +52,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 5.5 - Fundamentos - JavaScript - Projetos
 - [x] 5.5 - Projeto - Arte com Pixels
 - [ ] 5.6 - (Bônus) Projeto - Lista de tarefas
-- [ ] 5.7 - (Bônus) Projeto - Meme Generator
+- [x] 5.7 - (Bônus) Projeto - Meme Generator
 - [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
 - [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
@@ -60,9 +60,9 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6.3 - Introdução - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Parte 1
-- [ ] 6.4 - CSS Flexbox - Parte 2
+- [x] 6.3 - Introdução - CSS Flexbox
+- [x] 6.3 - CSS Flexbox - Parte 1
+- [x] 6.4 - CSS Flexbox - Parte 2
 - [ ] 6.5 - CSS Responsivo - Mobile First
 - [ ] 6.6 - Projeto - Tribewarts
 
@@ -348,7 +348,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 5.5 - Fundamentals - JavaScript - Projects
 - [x] 5.5 - Project - Art with Pixels
 - [ ] 5.6 - (Bonus) Project - To-do list
-- [ ] 5.7 - (Bonus) Project - Meme Generator
+- [x] 5.7 - (Bonus) Project - Meme Generator
 - [ ] 5.7 - (Bonus) Project - Guess the Color
 - [ ] 5.7 - (Bonus) Project - Mystery Letter
 
@@ -356,9 +356,9 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - JavaScript Libraries and CSS Frameworks
-- [ ] 6.3 - Introduction - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Part 1
-- [ ] 6.4 - CSS Flexbox - Part 2
+- [x] 6.3 - Introduction - CSS Flexbox
+- [x] 6.3 - CSS Flexbox - Part 1
+- [x] 6.4 - CSS Flexbox - Part 2
 - [ ] 6.5 - Responsive CSS - Mobile First
 - [ ] 6.6 - Project - Tribewarts
 
