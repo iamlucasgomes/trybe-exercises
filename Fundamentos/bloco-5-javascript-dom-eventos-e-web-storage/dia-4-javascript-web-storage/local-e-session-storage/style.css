@@ -173,12 +173,13 @@ input:checked + .slider:before {
   font-size: 16px;
   border: none;
   cursor: pointer;
-  margin-left: 1185%;
+  /* margin-left: 1185%; */
 }
 
 .dropdown {
   position: relative;
-  display: inline-block;
+  display: flex;
+  justify-content: right;
 }
 
 .dropdown-content {
@@ -188,6 +189,7 @@ input:checked + .slider:before {
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+  margin-top: 3.2rem;
 }
 
 .dropdown-content a {
