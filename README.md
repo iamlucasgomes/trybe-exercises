@@ -56,20 +56,20 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
 - [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
-##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo ![loading](assets/img/hug.gif)
+##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 6.3 - Introdução - CSS Flexbox
 - [x] 6.3 - CSS Flexbox - Parte 1
 - [x] 6.4 - CSS Flexbox - Parte 2
-- [ ] 6.5 - CSS Responsivo - Mobile First
-- [ ] 6.6 - Projeto - Tribewarts
+- [x] 6.5 - CSS Responsivo - Mobile First
+- [x] 6.6 - Projeto - Tribewarts
 
-##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
+##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários ![loading](assets/img/hug.gif)
 
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
+- [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 7.2 - JavaScript ES6 - Objects
 - [ ] 7.3 - Testes unitários em JavaScript
 - [ ] 7.4 - Projeto - JavaScript Testes Unitários
 
@@ -352,20 +352,20 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [ ] 5.7 - (Bonus) Project - Guess the Color
 - [ ] 5.7 - (Bonus) Project - Mystery Letter
 
-##### Block 6: HTML and CSS: Forms, Flexbox and Responsive ![loading](assets/img/hug.gif)
+##### Block 6: HTML and CSS: Forms, Flexbox and Responsive <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - JavaScript Libraries and CSS Frameworks
 - [x] 6.3 - Introduction - CSS Flexbox
 - [x] 6.3 - CSS Flexbox - Part 1
 - [x] 6.4 - CSS Flexbox - Part 2
-- [ ] 6.5 - Responsive CSS - Mobile First
-- [ ] 6.6 - Project - Tribewarts
+- [x] 6.5 - Responsive CSS - Mobile First
+- [x] 6.6 - Project - Tribewarts
 
-##### Block 7: Introduction to JavaScript ES6 and Unit Tests
+##### Block 7: Introduction to JavaScript ES6 and Unit Tests ![loading](assets/img/hug.gif)
 
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
+- [x] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
+- [x] 7.2 - JavaScript ES6 - Objects
 - [ ] 7.3 - Unit tests in JavaScript
 - [ ] 7.4 - Project - JavaScript Unit Tests
 
