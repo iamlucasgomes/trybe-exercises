@@ -70,7 +70,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Testes unitários em JavaScript
+- [x] 7.3 - Testes unitários em JavaScript
 - [ ] 7.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
@@ -366,7 +366,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
 - [x] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Unit tests in JavaScript
+- [x] 7.3 - Unit tests in JavaScript
 - [ ] 7.4 - Project - JavaScript Unit Tests
 
 ##### Block 8: Higher Order Functions of JavaScript ES6
