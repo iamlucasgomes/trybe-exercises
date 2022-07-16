@@ -19,12 +19,7 @@
       const value1 = document.getElementById('value1').value;
       const value2 = document.getElementById('value2').value;
       const result = Number(value1) + Number(value2);
-     if (!value1 || !value2) {
-      document.getElementById('result').innerHTML = `corrija pora`
-     }else {
-      document.getElementById('result').innerHTML = `Resultado: ${result}`
-     }
-      
+      document.getElementById('result').innerHTML = `Resultado: ${result}`;
       document.getElementById('value1').value = '';
       document.getElementById('value2').value = '';
     }
