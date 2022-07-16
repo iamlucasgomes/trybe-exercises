@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang='pt-BR'>
+
 <head>
   <meta charset='UTF-8'>
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
   <title>Calculadora</title>
 </head>
+
 <body>
   <p>Informe dois números para realizar a soma:</p>
   <label for='value1'>Valor 1:</label>
@@ -15,18 +17,36 @@
   <button id='button'>Somar</button>
   <p id='result'></p>
   <script>
-    function sum() {
+    function checkErros() {
       const value1 = document.getElementById('value1').value;
       const value2 = document.getElementById('value2').value;
-      const result = Number(value1) + Number(value2);
-      document.getElementById('result').innerHTML = `Resultado: ${result}`;
-      document.getElementById('value1').value = '';
-      document.getElementById('value2').value = '';
+      const num1 = Number(value1);
+      const num2 = Number(value2);
+      if (!num1 || !num2) {
+        throw new Error(document.getElementById('result').innerHTML = 'ERRO: Por favor insira um número maior que 0')
+      }
     }
-    window.onload = () => {
+    function sum() {
+      try {
+        checkErros();
+        const value1 = document.getElementById('value1').value;
+        const value2 = document.getElementById('value2').value;
+        const result = Number(value1) + Number(value2);
+        document.getElementById('result').innerHTML = `Resultado: ${result}`; 
+      }
+      catch (error) {
+        return error.message;
+      }
+      finally {
+        document.getElementById('value1').value = '';
+        document.getElementById('value2').value = '';
+      }
+    }  
+      window.onload = () => {
       const button = document.getElementById('button');
       button.addEventListener('click', sum);
     }
   </script>
 </body>
+
 </html>
