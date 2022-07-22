@@ -66,26 +66,29 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 6.5 - CSS Responsivo - Mobile First
 - [x] 6.6 - Projeto - Tribewarts
 
-##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários ![loading](assets/img/hug.gif)
+##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
-- [x] 7.2 - JavaScript ES6 - Objects
-- [x] 7.3 - Testes unitários em JavaScript
-- [ ] 7.4 - Projeto - JavaScript Testes Unitários
+- [x] 7.2 - JavaScript ES6 - Fluxo de exceção e Objects
+- [x] 7.3 - Primeiros passos em Jest
+- [x] 7.4 - Projeto - JavaScript Testes Unitários
 
-##### Bloco 8: Higher Order Functions do JavaScript ES6
+##### Bloco 8: Higher Order Functions do JavaScript ES6 ![loading](assets/img/hug.gif)
 
-- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 8.5 - Projeto - Zoo functions
+- [x] 8.1 - JavaScript ES6 - Introdução a Higher Order Functions
+- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
+- [ ] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [ ] 8.6 - Projeto - Zoo functions
 
-##### Bloco 9: JavaScript Assíncrono e Promises
+##### Bloco 9: JavaScript e Testes Assíncronos
 
-- [ ] 9.1 - JavaScript Assíncrono e Callbacks
-- [ ] 9.2 - JavaScript Promises
-- [ ] 9.3 - Projeto - Carrinho de Compras
+- [ ] 9.1 - Introdução - Front-end
+- [ ] 9.1 - JavaScript Assíncrono e CallBacks
+- [ ] 9.2 - JavaScript Assíncrono - Fetch API e async/await
+- [ ] 9.3 - Jest - Testes Assíncronos
+- [ ] 9.4 - Projeto - Carrinho de Compras
 
 ##### Bloco 10: Testes automatizados com Jest
 
@@ -362,26 +365,29 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 6.5 - Responsive CSS - Mobile First
 - [x] 6.6 - Project - Tribewarts
 
-##### Block 7: Introduction to JavaScript ES6 and Unit Tests ![loading](assets/img/hug.gif)
+##### Block 7: Introduction to JavaScript ES6 and Unit Tests <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
-- [x] 7.2 - JavaScript ES6 - Objects
-- [x] 7.3 - Unit tests in JavaScript
-- [ ] 7.4 - Project - JavaScript Unit Tests
+- [x] 7.2 - JavaScript ES6 - Exception Flow and Objects
+- [x] 7.3 - Getting Started in Jest
+- [x] 7.4 - Project - JavaScript Unit Tests
 
-##### Block 8: Higher Order Functions of JavaScript ES6
+##### Block 8: Higher Order Functions of JavaScript ES6 ##### Block 7: Introduction to JavaScript ES6 and Unit Tests ![loading](assets/img/hug.gif)
 
-- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map and filter
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
-- [ ] 8.5 - Project - Zoo functions
+- [x] 8.1 - JavaScript ES6 - Introduction to Higher Order Functions
+- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - map and filter
+- [ ] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 8.5 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
+- [ ] 8.6 - Project - Zoo functions
 
-##### Block 9: Asynchronous JavaScript and Promises
+##### Block 9: JavaScript and Asynchronous Tests
 
-- [ ] 9.1 - Asynchronous JavaScript and Callbacks
-- [ ] 9.2 - JavaScript Promises
-- [ ] 9.3 - Project - Shopping Cart
+- [ ] 9.1 - Introduction - Front-end
+- [ ] 9.1 - Asynchronous JavaScript and CallBacks
+- [ ] 9.2 - Asynchronous JavaScript - Fetch API and async/await
+- [ ] 9.3 - Jest - Asynchronous Tests
+- [ ] 9.4 - Project - Shopping Cart
 
 ##### Block 10: Automated Testing with Jest
 
