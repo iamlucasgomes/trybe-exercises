@@ -73,16 +73,16 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 7.3 - Primeiros passos em Jest
 - [x] 7.4 - Projeto - JavaScript Testes Unitários
 
-##### Bloco 8: Higher Order Functions do JavaScript ES6 ![loading](assets/img/hug.gif)
+##### Bloco 8: Higher Order Functions do JavaScript ES6 <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 8.1 - JavaScript ES6 - Introdução a Higher Order Functions
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 8.6 - Projeto - Zoo functions
+- [x] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
+- [x] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
+- [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [x] 8.6 - Projeto - Zoo functions
 
-##### Bloco 9: JavaScript e Testes Assíncronos
+##### Bloco 9: JavaScript e Testes Assíncronos ![loading](assets/img/hug.gif)
 
 - [ ] 9.1 - Introdução - Front-end
 - [ ] 9.1 - JavaScript Assíncrono e CallBacks
@@ -372,16 +372,16 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 7.3 - Getting Started in Jest
 - [x] 7.4 - Project - JavaScript Unit Tests
 
-##### Block 8: Higher Order Functions of JavaScript ES6 ##### Block 7: Introduction to JavaScript ES6 and Unit Tests ![loading](assets/img/hug.gif)
+##### Block 8: Higher Order Functions of JavaScript ES6 ##### Block 7: Introduction to JavaScript ES6 and Unit Tests !<img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 8.1 - JavaScript ES6 - Introduction to Higher Order Functions
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - map and filter
-- [ ] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.5 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
-- [ ] 8.6 - Project - Zoo functions
+- [x] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 8.3 - JavaScript ES6 - Higher Order Functions - map and filter
+- [x] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
+- [x] 8.5 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
+- [x] 8.6 - Project - Zoo functions
 
-##### Block 9: JavaScript and Asynchronous Tests
+##### Block 9: JavaScript and Asynchronous Tests [loading](assets/img/hug.gif)
 
 - [ ] 9.1 - Introduction - Front-end
 - [ ] 9.1 - Asynchronous JavaScript and CallBacks
