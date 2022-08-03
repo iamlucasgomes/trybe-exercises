@@ -82,6 +82,8 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 8.6 - Projeto - Zoo functions
 
+## Desenvolvimento Front-end
+
 ##### Bloco 9: JavaScript e Testes Assíncronos ![loading](assets/img/hug.gif)
 
 - [ ] 9.1 - Introdução - Front-end
@@ -96,8 +98,6 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [ ] 10.2 - Jest - Testes Assíncronos
 - [ ] 10.3 - Jest - Simulando comportamentos
 - [ ] 10.4 - Projeto - Jest Assíncrono e Mocking
-
-## Desenvolvimento Front-end
 
 ##### Bloco 11: Introdução à React
 
@@ -381,6 +381,8 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 8.5 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
 - [x] 8.6 - Project - Zoo functions
 
+## Front-end development
+
 ##### Block 9: JavaScript and Asynchronous Tests [loading](assets/img/hug.gif)
 
 - [ ] 9.1 - Introduction - Front-end
@@ -395,8 +397,6 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [ ] 10.2 - Jest - Asynchronous Tests
 - [ ] 10.3 - Jest - Simulating behaviors
 - [ ] 10.4 - Project - Asynchronous Jest and Mocking
-
-## Front-end development
 
 ##### Block 11: Introduction to React
 
