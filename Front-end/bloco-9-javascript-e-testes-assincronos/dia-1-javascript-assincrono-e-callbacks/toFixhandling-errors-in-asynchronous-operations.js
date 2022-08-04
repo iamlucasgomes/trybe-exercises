@@ -5,7 +5,7 @@ const delay = (maxMilliseconds = 5000) => Math.floor(Math.random() * maxMillisec
 
 const printErrorMessage = (error) => console.log(`Error getting country: ${error}`);
 
-const getCountry = (onSuccess, callback) => {
+const getCountry = (onSuccess) => {
   setTimeout(() => {
     const didOperationSucceed = Math.random() >= 0.5;
     if(didOperationSucceed) {
@@ -17,7 +17,6 @@ const getCountry = (onSuccess, callback) => {
       onSuccess(country);
     } else {
       const errorMessage = "Country could not be found";
-      callback(errorMessage);
     }
   }, delay());
 };
