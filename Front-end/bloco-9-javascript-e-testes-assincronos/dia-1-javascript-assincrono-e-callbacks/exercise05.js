@@ -1,5 +1,3 @@
-// 5 - Agora que você fez a função que envia a temperatura de Marte, suponha que você consiga enviar para o robô Curiosity o que você deseja fazer, uma vez obtida com sucesso a temperatura em Marte. Logo, adicione na função sendMarsTemperature uma callback que contenha as ações a serem tomadas em cima da temperatura.
-
 const messageDelay = () => Math.floor(Math.random() * 5000);
 
 const getMarsTemperature = () => {
@@ -15,7 +13,9 @@ const temperatureInFahrenheit = (temperature) =>
 const greet = (temperature) =>
   console.log(`Hi there! Curiosity here. Right now is ${temperature}ºC at Mars`);
 
-const sendMarsTemperature = (callback) => callback(getMarsTemperature());
+const sendMarsTemperature = (callback) => setTimeout(() => {
+  return callback(getMarsTemperature());
+},messageDelay()); 
 
 sendMarsTemperature(temperatureInFahrenheit); // imprime "It is currently 47ºF at Mars", por exemplo
 sendMarsTemperature(greet); // imprime "Hi there! Curiosity here. Right now is 53ºC at Mars", por exemplo
