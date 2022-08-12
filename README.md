@@ -84,79 +84,74 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ## Desenvolvimento Front-end
 
-##### Bloco 9: JavaScript e Testes Assíncronos ![loading](assets/img/hug.gif)
+##### Bloco 9: JavaScript e Testes Assíncronos <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 9.1 - Introdução - Front-end
-- [ ] 9.1 - JavaScript Assíncrono e CallBacks
-- [ ] 9.2 - JavaScript Assíncrono - Fetch API e async/await
-- [ ] 9.3 - Jest - Testes Assíncronos
-- [ ] 9.4 - Projeto - Carrinho de Compras
+- [x] 9.1 - Introdução - Front-end
+- [x] 9.1 - JavaScript Assíncrono e CallBacks
+- [x] 9.2 - JavaScript Assíncrono - Fetch API e async/await
+- [x] 9.3 - Jest - Testes Assíncronos
+- [x] 9.4 - Projeto - Carrinho de Compras
 
-##### Bloco 10: Testes automatizados com Jest
+##### Bloco 10: Introdução à React ![loading](assets/img/hug.gif)
 
-- [ ] 10.1 - Primeiros passos no Jest
-- [ ] 10.2 - Jest - Testes Assíncronos
-- [ ] 10.3 - Jest - Simulando comportamentos
-- [ ] 10.4 - Projeto - Jest Assíncrono e Mocking
+- [ ] 10.1 - 'Hello, world!' no React!
+- [ ] 10.2 - Componentes React
+- [ ] 10.3 - Projeto - Sistema Solar
 
-##### Bloco 11: Introdução à React
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11.1 - Introdução - Front-end
-- [ ] 11.1 - Introdução - React
-- [ ] 11.1 - 'Hello, world!' no React!
-- [ ] 11.2 - Componentes React
-- [ ] 11.3 - Projeto - Movie Cards Library
+- [ ] 11.1 - Componentes com estado e eventos
+- [ ] 11.2 - Formulários no React
+- [ ] 11.3 - Projeto - Tryunfo
 
-##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 12.1 - Componentes com estado e eventos
-- [ ] 12.2 - Formulários no React
-- [ ] 12.3 - Projeto - Movie Cards Library Stateful
+- [ ] 12.1 - Ciclo de vida de componentes
+- [ ] 12.2 - React Router
+- [ ] 12.3 - Projeto - TrybeTunes
 
-##### Bloco 13: Ciclo de Vida de Componentes e React Router
+##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13.1 - Ciclo de vida de componentes
-- [ ] 13.2 - React Router
-- [ ] 13.3 - Projeto - Movie Cards Library CRUD
+- [ ] 13.1 - Metodologias Ágeis
+- [ ] 13.2 - Projeto - Frontend Online Store
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 14.1 - Metodologias Ágeis
-- [ ] 14.2 - Projeto - Frontend Online Store
+- [ ] 14.1 - RTL - Primeiros passos
+- [ ] 14.2 - RTL - Mocks e Inputs
+- [ ] 14.3 - RTL - Testando React Router
+- [ ] 14.4 - Projeto - Testes em React
 
-##### Bloco 15: Testes automatizados com React Testing Library
+##### Bloco 15: Gerenciamento de estado com Redux
 
-- [ ] 15.1 - RTL - Primeiros passos
-- [ ] 15.2 - RTL - Mocks e Inputs
-- [ ] 15.3 - RTL - Testando React Router
-- [ ] 15.4 - Projeto - Testes em React
+- [ ] 15.1 - Introdução ao Redux - O estado global da aplicação
+- [ ] 15.2 - Usando o Redux no React
+- [ ] 15.3 - Usando o Redux no React - Prática
+- [ ] 15.4 - Usando o Redux no React - Actions Assíncronas
+- [ ] 15.5 - Testes em React-Redux
+- [ ] 15.6 - Projeto - Trybe Wallet
 
-##### Bloco 16: Gerenciamento de estado com Redux
+##### Bloco 16: Projeto Jogo de Trivia
 
-- [ ] 16.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 16.2 - Usando o Redux no React
-- [ ] 16.3 - Usando o Redux no React - Prática
-- [ ] 16.4 - Usando o Redux no React - Actions Assíncronas
-- [ ] 16.5 - Testes síncronos com React-Redux
-- [ ] 16.6 - Projeto - Tabela com filtros de dados
+- [ ] 16.1 - Projeto - Jogo de Trivia
 
-##### Bloco 17: Projeto Jogo de Trivia
+##### Bloco 17: Context API e React Hooks
 
-- [ ] 17.1 - Projeto - Jogo de Trivia
+- [ ] 17.1 - Context API do React
+- [ ] 17.2 - React Hooks - useState e useContext
+- [ ] 17.3 - React Hooks - useEffect e Hooks customizados
+- [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
 
-##### Bloco 18: Context API e React Hooks]
+##### Bloco 18: Projeto App de Receitas
 
-- [ ] 18.1 - Context API do React
-- [ ] 18.2 - React Hooks - useState e useContext
-- [ ] 18.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [ ] 18.1 - Projeto - App de Receitas
+
+## Desenvolvimento Back-end
 
 ##### Bloco 19: Projeto App de Receitas
 
 - [ ] 19.1 - Projeto - App de Receitas
-
-## Desenvolvimento Back-end 
-
+ 
 ##### Bloco 20: Introdução à SQL
 
 - [ ] 20.1 - Introdução - Back-end
@@ -372,7 +367,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 7.3 - Getting Started in Jest
 - [x] 7.4 - Project - JavaScript Unit Tests
 
-##### Block 8: Higher Order Functions of JavaScript ES6 ##### Block 7: Introduction to JavaScript ES6 and Unit Tests !<img src="assets/img/check.gif" alt="Check" width="20px" >
+##### Block 8: Higher Order Functions of JavaScript ES6 ##### Block 7: Introduction to JavaScript ES6 and Unit Tests <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 8.1 - JavaScript ES6 - Introduction to Higher Order Functions
 - [x] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
@@ -383,78 +378,73 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ## Front-end development
 
-##### Block 9: JavaScript and Asynchronous Tests [loading](assets/img/hug.gif)
+##### Block 9: JavaScript and Asynchronous Tests <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 9.1 - Introduction - Front-end
-- [ ] 9.1 - Asynchronous JavaScript and CallBacks
-- [ ] 9.2 - Asynchronous JavaScript - Fetch API and async/await
-- [ ] 9.3 - Jest - Asynchronous Tests
-- [ ] 9.4 - Project - Shopping Cart
+- [x] 9.1 - Introduction - Front-end
+- [x] 9.1 - Asynchronous JavaScript and CallBacks
+- [x] 9.2 - Asynchronous JavaScript - Fetch API and async/await
+- [x] 9.3 - Jest - Asynchronous Tests
+- [x] 9.4 - Project - Shopping Cart
 
-##### Block 10: Automated Testing with Jest
+##### Block 10: Introduction to React ![loading](assets/img/hug.gif)
 
-- [ ] 10.1 - Getting Started in Jest
-- [ ] 10.2 - Jest - Asynchronous Tests
-- [ ] 10.3 - Jest - Simulating behaviors
-- [ ] 10.4 - Project - Asynchronous Jest and Mocking
+- [ ] 10.1 - 'Hello, world!' on React!
+- [ ] 10.2 - React Components
+- [ ] 10.3 - Project - Solar System
 
-##### Block 11: Introduction to React
+##### Block 11: Stateful Components, Events, and Forms with React
 
-- [ ] 11.1 - Introduction - Front-end
-- [ ] 11.1 - Introduction - React
-- [ ] 11.1 - 'Hello, world!' on React!
-- [ ] 11.2 - React Components
-- [ ] 11.3 - Project - Movie Cards Library
+- [ ] 11.1 - Components with state and events
+- [ ] 11.2 - Forms in React
+- [ ] 11.3 - Project - Tryunfo
 
-##### Block 12: Stateful Components, Events and Forms with React
+##### Block 12: Component Lifecycle and React Router
 
-- [ ] 12.1 - Components with state and events
-- [ ] 12.2 - Forms in React
-- [ ] 12.3 - Project - Stateful Library Movie Cards
+- [ ] 12.1 - Lifecycle of components
+- [ ] 12.2 - React Router
+- [ ] 12.3 - Project - TrybeTunes
 
-##### Block 13: Component Lifecycle and React Router
+##### Block 13: Agile Methodologies
 
-- [ ] 13.1 - Lifecycle of components
-- [ ] 13.2 - React Router
-- [ ] 13.3 - Project - Movie Cards Library CRUD
+- [ ] 13.1 - Agile Methodologies
+- [ ] 13.2 - Project - Frontend Online Store
 
-##### Block 14: Agile Methodologies
+##### Block 14: Automated Testing with React Testing Library
 
-- [ ] 14.1 - Agile Methodologies
-- [ ] 14.2 - Project - Frontend Online Store
+- [ ] 14.1 - RTL - First steps
+- [ ] 14.2 - RTL - Mocks and Inputs
+- [ ] 14.3 - RTL - Testing React Router
+- [ ] 14.4 - Project - Tests in React
 
-##### Block 15: Automated Testing with React Testing Library
+##### Block 15: State Management with Redux
 
-- [ ] 15.1 - RTL - First steps
-- [ ] 15.2 - RTL - Mocks and Inputs
-- [ ] 15.3 - RTL - Testing React Router
-- [ ] 15.4 - Project - Tests in React
+- [ ] 15.1 - Introduction to Redux - The global state of the application
+- [ ] 15.2 - Using Redux in React
+- [ ] 15.3 - Using Redux in React - Practice
+- [ ] 15.4 - Using Redux in React - Asynchronous Actions
+- [ ] 15.5 - Tests in React-Redux
+- [ ] 15.6 - Project - Trybe Wallet
 
-##### Block 16: State Management with Redux
+##### Block 16: Trivia Game Project
 
-- [ ] 16.1 - Introduction to Redux - The global state of the application
-- [ ] 16.2 - Using Redux in React
-- [ ] 16.3 - Using Redux in React - Practice
-- [ ] 16.4 - Using Redux in React - Asynchronous Actions
-- [ ] 16.5 - Synchronous Tests with React-Redux
-- [ ] 16.6 - Project - Table with data filters
+- [ ] 16.1 - Project - Trivia Game
 
-##### Block 17: Trivia Game Project
+##### Block 17: Context API and React Hooks
 
-- [ ] 17.1 - Project - Trivia Game
+- [ ] 17.1 - React Context API
+- [ ] 17.2 - React Hooks - useState and useContext
+- [ ] 17.3 - React Hooks - useEffect and custom Hooks
+- [ ] 17.4 - Project - StarWars Datatable with Context API and Hooks
 
-##### Block 18: Context API and React Hooks]
+##### Block 18: Recipe App Project
 
-- [ ] 18.1 - React Context API
-- [ ] 18.2 - React Hooks - useState and useContext
-- [ ] 18.3 - React Hooks - useEffect and custom Hooks
-- [ ] 18.4 - Project - StarWars Datatable with Context API and Hooks
+- [ ] 18.1 - Project - Recipes App
+
+## Back-end development
 
 ##### Block 19: Recipe App Project
 
 - [ ] 19.1 - Project - Recipes App
-
-## Back-end development
 
 ##### Block 20: Introduction to SQL
 
