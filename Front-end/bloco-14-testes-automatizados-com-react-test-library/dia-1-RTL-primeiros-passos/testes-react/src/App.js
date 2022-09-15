@@ -9,6 +9,7 @@ class App extends Component {
     this.state = {
       email: '',
       saveEmail: '',
+      emailCheck: false,
     };
   }
 
@@ -21,7 +22,7 @@ class App extends Component {
   }
 
   render() {
-    const { email, saveEmail } = this.state;
+    const { email, saveEmail, emailCheck } = this.state;
     return (
       <div className="App">
         <label htmlFor="id-email">
@@ -41,7 +42,7 @@ class App extends Component {
           onClick={ () => this.changeSaveEmail(email) }
         />
         <input id="btn-id" type="button" value="Voltar" />
-        <ValidEmail email={ saveEmail } />
+        <ValidEmail email={ saveEmail } emailCheck={emailCheck} />
       </div>
     );
   }
