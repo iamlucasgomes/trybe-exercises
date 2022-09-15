@@ -1,0 +1,48 @@
+div:hover {
+    border: 1px solid mediumslateblue;
+}
+
+
+div:nth-child(3) {
+    background-color: midnightblue;
+}
+
+div:nth-child(3) h3 {
+    color: white;
+}
+
+div:nth-child(4) {
+    background-color: mediumpurple;
+}
+
+div:nth-child(4) h3 {
+    color: burlywood;
+}
+
+div:nth-child(5) {
+    background-color: mediumslateblue;
+}
+
+div:nth-child(5) h3 {
+    color: silver;
+}
+
+div:nth-child(6) {
+    background-color: yellowgreen;
+    padding: 15px;
+}
+
+div:nth-child(6) h3 {
+    color: orangered;
+}
+
+div:nth-child(7) {
+    background-color: royalblue;
+}
+
+div:nth-child(7) h3 {
+    color: yellow;
+}
+div:nth-child(odd){
+    font-style: italic;
+}

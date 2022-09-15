@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,300;1,300&display=swap');
+
+@font-face {
+    font-family: Cute And Active;
+    src: url(assets/fonts/Cute-And-Active.otf);
+}
+
+@font-face {
+    font-family: Comica Regular;
+    src: url(assets/fonts/ComicaRegular.otf);
+}
+
+body {
+    background-color: #5ed8fe;
+    color: #5ed8fe;
+
+}
+
+h1 {
+    color: #62388d;
+    font-size: 60px;
+}
+
+h2 {
+    color: #09263f;
+    font-size: 40px;
+}
+
+h3 {
+    color: #09263f;
+    font-size: 30px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Cute And Active';
+    padding-left: 1%;
+}
+
+em {
+    color: #62388d;
+}
+
+strong {
+    color: #09263f;
+}
+
+main {
+    margin: auto;
+    width: 75%;
+    border: thick double #ffffff;
+    background-color: white;
+}
+
+iframe {
+    position: absolute;
+    top: 5%;
+    right: 15%;
+    margin-bottom: 5%;
+    border-radius: 20px;
+    border: 10px solid #ffffff;
+}
+
+.fonte1 {
+    position: absolute;
+    top: 165%;
+    left: 45%;
+}
+
+.fonte2 {
+    position: absolute;
+    top: 300%;
+    left: 45%;
+}
+
+#menu {
+    position: fixed;
+    border: 1px solid white;
+    padding: 0;
+    background-color: white;
+    width: 130px;
+    /* border-radius: 10px; */
+    width: 155px;
+}
+
+#referencia {
+    position: absolute;
+    border: 1px solid white;
+    padding: 0;
+    left: 88%;
+    background-color: white;
+    width: 130px;
+    /* border-radius: 10px; */
+    width: 155px;
+}
+
+footer {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+p {
+    font-family: 'Comica Regular';
+    font-weight: bold;
+}
+
+section {
+    margin-top: 5%;
+}
+
+table {
+    color: white;
+    background-color: #62388d;
+    display: flex;
+    font-size: 12.px;
+}
+
+td {
+    border: 1px solid white;
+    width: 59.1px;
+    height: 22px;
+    font-size: 10px;
+    text-align: center;
+}
+
+ul {
+    margin-left: 0;
+    padding: 0;
+}
+
+li {
+    text-decoration: none;
+    list-style-type: none;
+    background-color: #5ed8fe;
+    color: white;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    text-transform: capitalize;
+
+}
+
+li:hover {
+    background-color: #09263f;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    padding: 0;
+    align-content: center;
+    margin-top: 5px;
+}
+
+#assinatura {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    color: #09263f;
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Prompt', sans-serif;
+}
+
+#curiosidades h2 {
+    position: absolute;
+    top: 55%;
+}
+
+.imagem {
+    width: 700px;
+    padding: 0% 15%;
+    background-color: #ffffff;
+}
+
+.espaçamento {
+    margin-top: 15%;
+}
+
+.format {
+    margin: 1%;
+}

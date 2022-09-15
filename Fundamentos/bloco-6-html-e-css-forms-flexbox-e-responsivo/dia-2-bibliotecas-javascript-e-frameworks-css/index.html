@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="Semantic/semantic.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
+  <link rel="stylesheet" href="style.css">
+  <title>Trybe Trip</title>
+</head>
+
+<body>
+  <header>
+    <div class="ui left aligned container space">
+    <h1 class="ui header">Concurso Trybe Trip</h1>
+  </div>
+  </header>
+  <fieldset class="container  ui inverted segment  ui inverted form">
+    <form action="" method=" get" id="form">
+      <div class="field">
+        <label for="nome-completo">Nome Completo:
+          <div>
+            <input type="text" name="nome-completo" id="nome">
+        </label>
+      </div>
+      </div>
+      <div class="field">
+        <label for="e-mail">E-mail:
+          <div>
+            <input type="email" name="e-mail" id="email">
+        </label>
+      </div>
+      </div>
+      <div class="ui form">
+        <div class="grouped fields">
+          <div class="field"><label for="destino">Destino Preferido:
+            <div class="field">
+              <div class="ui radio checkbox">
+                <input type="radio" name="destino" id="cidade" checked> <label for="destino">Cidade</label>
+              </div>
+              <div class="field">
+                <div class="ui radio checkbox"><input class="ui radio checkbox" type="radio" name="destino" id="campo">
+                  <label for="destino">Campo</label></div>
+              </div>
+              <div class="field">
+                <div class="ui radio checkbox"><input class="ui radio checkbox" type="radio" name="destino" id="praia"> <label for="destino">Praia</label></div>
+              </div>
+              <div class="field">
+                <div class="ui radio checkbox"><input class="ui radio checkbox" type="radio" name="destino" id="montanhas"> <label for="destino">Montanhas</label></div>
+              </div>
+          </label>
+        </div>
+        </div>
+      </div>
+    </div>
+      <div class="field"><label for="descricao">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso
+          TrybeTrip?
+          <div>
+            <textarea name="descricao" id="description" cols="30" rows="10"></textarea>
+        </label>
+      </div>
+      </div>
+      <div class="field">
+        <label for="data">Qual a melhor data para realizar sua viagem?
+          <div>
+            <input type="text" id="data">
+        </label>
+      </div>
+      </div>
+      <div>
+        <div class="ui checkbox">
+          <input type="checkbox" name="newsletter" id="newsletter"><label for="newsletter"> Gostaria de receber outras
+            incríveis oportunidades oferecidas pela Trybe?
+        </div>
+      </div>
+      <div>
+        <div class="ui checkbox">
+          <input type="checkbox" name="termo1" id="termo1"><label for="termo1"> Concordo que imagens das minhas
+            férias
+            poderão ser usadas na divulgação de concursos futuros.</label>
+          </label>
+        </div>
+      </div>
+
+      <div class="space">
+        <button class="ui inverted button" type="submit" id="submit">Enviar</button>
+        <button class="ui inverted button" type="reset">Limpar informações</button>
+      </div>
+    </form>
+  </fieldset>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+    integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+  <script src="Semantic/semantic.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
+  <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
