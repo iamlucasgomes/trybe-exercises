@@ -94,31 +94,31 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ##### Bloco 10: Introdução à React ![loading](assets/img/hug.gif)
 
-- [ ] 10.1 - 'Hello, world!' no React!
-- [ ] 10.2 - Componentes React
-- [ ] 10.3 - Projeto - Sistema Solar
+- [x] 10.1 - 'Hello, world!' no React!
+- [x] 10.2 - Componentes React
+- [x] 10.3 - Projeto - Sistema Solar
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11.1 - Componentes com estado e eventos
-- [ ] 11.2 - Formulários no React
-- [ ] 11.3 - Projeto - Tryunfo
+- [x] 11.1 - Componentes com estado e eventos
+- [x] 11.2 - Formulários no React
+- [x] 11.3 - Projeto - Tryunfo
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 12.1 - Ciclo de vida de componentes
-- [ ] 12.2 - React Router
-- [ ] 12.3 - Projeto - TrybeTunes
+- [x] 12.1 - Ciclo de vida de componentes
+- [x] 12.2 - React Router
+- [x] 12.3 - Projeto - TrybeTunes
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13.1 - Metodologias Ágeis
-- [ ] 13.2 - Projeto - Frontend Online Store
+- [x] 13.1 - Metodologias Ágeis
+- [x] 13.2 - Projeto - Frontend Online Store
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 14.1 - RTL - Primeiros passos
-- [ ] 14.2 - RTL - Mocks e Inputs
+- [x] 14.1 - RTL - Primeiros passos
+- [x] 14.2 - RTL - Mocks e Inputs
 - [ ] 14.3 - RTL - Testando React Router
 - [ ] 14.4 - Projeto - Testes em React
 
@@ -388,31 +388,31 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ##### Block 10: Introduction to React ![loading](assets/img/hug.gif)
 
-- [ ] 10.1 - 'Hello, world!' on React!
-- [ ] 10.2 - React Components
-- [ ] 10.3 - Project - Solar System
+- [x] 10.1 - 'Hello, world!' on React!
+- [x] 10.2 - React Components
+- [x] 10.3 - Project - Solar System
 
 ##### Block 11: Stateful Components, Events, and Forms with React
 
-- [ ] 11.1 - Components with state and events
-- [ ] 11.2 - Forms in React
-- [ ] 11.3 - Project - Tryunfo
+- [x] 11.1 - Components with state and events
+- [x] 11.2 - Forms in React
+- [x] 11.3 - Project - Tryunfo
 
 ##### Block 12: Component Lifecycle and React Router
 
-- [ ] 12.1 - Lifecycle of components
-- [ ] 12.2 - React Router
-- [ ] 12.3 - Project - TrybeTunes
+- [x] 12.1 - Lifecycle of components
+- [x] 12.2 - React Router
+- [x] 12.3 - Project - TrybeTunes
 
 ##### Block 13: Agile Methodologies
 
-- [ ] 13.1 - Agile Methodologies
-- [ ] 13.2 - Project - Frontend Online Store
+- [x] 13.1 - Agile Methodologies
+- [x] 13.2 - Project - Frontend Online Store
 
 ##### Block 14: Automated Testing with React Testing Library
 
-- [ ] 14.1 - RTL - First steps
-- [ ] 14.2 - RTL - Mocks and Inputs
+- [x] 14.1 - RTL - First steps
+- [x] 14.2 - RTL - Mocks and Inputs
 - [ ] 14.3 - RTL - Testing React Router
 - [ ] 14.4 - Project - Tests in React
 
