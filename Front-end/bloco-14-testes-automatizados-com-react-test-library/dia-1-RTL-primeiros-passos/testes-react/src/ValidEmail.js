@@ -12,7 +12,7 @@ const ValidEmail = (props) => {
   return (
     <div>
       <h2 data-testid="id-email-user">{`Valor: ${email}`}</h2>
-      <h3>{(verifyEmail(email) ? 'Email Válido' : 'Email Inválido')}</h3>
+      {(verifyEmail(email) ? <h3 style={{color: "green"}}>Email Válido</h3> : <h3 style={{color: "red"}}>Email Inválido</h3>)}
     </div>
   );
 };
@@ -22,3 +22,4 @@ ValidEmail.propTypes = {
 };
 
 export default ValidEmail;
+
