@@ -92,37 +92,37 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 9.3 - Jest - Testes Assíncronos
 - [x] 9.4 - Projeto - Carrinho de Compras
 
-##### Bloco 10: Introdução à React ![loading](assets/img/hug.gif)
+##### Bloco 10: Introdução à React <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 10.1 - 'Hello, world!' no React!
 - [x] 10.2 - Componentes React
 - [x] 10.3 - Projeto - Sistema Solar
 
-##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 11.1 - Componentes com estado e eventos
 - [x] 11.2 - Formulários no React
 - [x] 11.3 - Projeto - Tryunfo
 
-##### Bloco 12: Ciclo de Vida de Componentes e React Router
+##### Bloco 12: Ciclo de Vida de Componentes e React Router <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 12.1 - Ciclo de vida de componentes
 - [x] 12.2 - React Router
 - [x] 12.3 - Projeto - TrybeTunes
 
-##### Bloco 13: Metodologias Ágeis
+##### Bloco 13: Metodologias Ágeis <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 13.1 - Metodologias Ágeis
 - [x] 13.2 - Projeto - Frontend Online Store
 
-##### Bloco 14: Testes automatizados com React Testing Library
+##### Bloco 14: Testes automatizados com React Testing Library <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 14.1 - RTL - Primeiros passos
 - [x] 14.2 - RTL - Mocks e Inputs
 - [x] 14.3 - RTL - Testando React Router
 - [x] 14.4 - Projeto - Testes em React
 
-##### Bloco 15: Gerenciamento de estado com Redux
+##### Bloco 15: Gerenciamento de estado com Redux <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 15.1 - Introdução ao Redux - O estado global da aplicação
 - [x] 15.2 - Usando o Redux no React
@@ -131,7 +131,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 15.5 - Testes em React-Redux
 - [ ] 15.6 - Projeto - Trybe Wallet
 
-##### Bloco 16: Projeto Jogo de Trivia
+##### Bloco 16: Projeto Jogo de Trivia ![loading](assets/img/hug.gif)
 
 - [ ] 16.1 - Projeto - Jogo de Trivia
 
@@ -386,37 +386,37 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 9.3 - Jest - Asynchronous Tests
 - [x] 9.4 - Project - Shopping Cart
 
-##### Block 10: Introduction to React ![loading](assets/img/hug.gif)
+##### Block 10: Introduction to React <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 10.1 - 'Hello, world!' on React!
 - [x] 10.2 - React Components
 - [x] 10.3 - Project - Solar System
 
-##### Block 11: Stateful Components, Events, and Forms with React
+##### Block 11: Stateful Components, Events, and Forms with React <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 11.1 - Components with state and events
 - [x] 11.2 - Forms in React
 - [x] 11.3 - Project - Tryunfo
 
-##### Block 12: Component Lifecycle and React Router
+##### Block 12: Component Lifecycle and React Router <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 12.1 - Lifecycle of components
 - [x] 12.2 - React Router
 - [x] 12.3 - Project - TrybeTunes
 
-##### Block 13: Agile Methodologies
+##### Block 13: Agile Methodologies <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 13.1 - Agile Methodologies
 - [x] 13.2 - Project - Frontend Online Store
 
-##### Block 14: Automated Testing with React Testing Library
+##### Block 14: Automated Testing with React Testing Library <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 14.1 - RTL - First steps
 - [x] 14.2 - RTL - Mocks and Inputs
 - [x] 14.3 - RTL - Testing React Router
 - [x] 14.4 - Project - Tests in React
 
-##### Block 15: State Management with Redux
+##### Block 15: State Management with Redux <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 15.1 - Introduction to Redux - The global state of the application
 - [x] 15.2 - Using Redux in React
@@ -425,7 +425,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 15.5 - Tests in React-Redux
 - [ ] 15.6 - Project - Trybe Wallet
 
-##### Block 16: Trivia Game Project
+##### Block 16: Trivia Game Project ![loading](assets/img/hug.gif)
 
 - [ ] 16.1 - Project - Trivia Game
 
