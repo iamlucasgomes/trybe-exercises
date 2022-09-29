@@ -119,16 +119,16 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 - [x] 14.1 - RTL - Primeiros passos
 - [x] 14.2 - RTL - Mocks e Inputs
-- [ ] 14.3 - RTL - Testando React Router
-- [ ] 14.4 - Projeto - Testes em React
+- [x] 14.3 - RTL - Testando React Router
+- [x] 14.4 - Projeto - Testes em React
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
-- [ ] 15.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 15.2 - Usando o Redux no React
-- [ ] 15.3 - Usando o Redux no React - Prática
-- [ ] 15.4 - Usando o Redux no React - Actions Assíncronas
-- [ ] 15.5 - Testes em React-Redux
+- [x] 15.1 - Introdução ao Redux - O estado global da aplicação
+- [x] 15.2 - Usando o Redux no React
+- [x] 15.3 - Usando o Redux no React - Prática
+- [x] 15.4 - Usando o Redux no React - Actions Assíncronas
+- [x] 15.5 - Testes em React-Redux
 - [ ] 15.6 - Projeto - Trybe Wallet
 
 ##### Bloco 16: Projeto Jogo de Trivia
@@ -413,16 +413,16 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 - [x] 14.1 - RTL - First steps
 - [x] 14.2 - RTL - Mocks and Inputs
-- [ ] 14.3 - RTL - Testing React Router
-- [ ] 14.4 - Project - Tests in React
+- [x] 14.3 - RTL - Testing React Router
+- [x] 14.4 - Project - Tests in React
 
 ##### Block 15: State Management with Redux
 
-- [ ] 15.1 - Introduction to Redux - The global state of the application
-- [ ] 15.2 - Using Redux in React
-- [ ] 15.3 - Using Redux in React - Practice
-- [ ] 15.4 - Using Redux in React - Asynchronous Actions
-- [ ] 15.5 - Tests in React-Redux
+- [x] 15.1 - Introduction to Redux - The global state of the application
+- [x] 15.2 - Using Redux in React
+- [x] 15.3 - Using Redux in React - Practice
+- [x] 15.4 - Using Redux in React - Asynchronous Actions
+- [x] 15.5 - Tests in React-Redux
 - [ ] 15.6 - Project - Trybe Wallet
 
 ##### Block 16: Trivia Game Project
