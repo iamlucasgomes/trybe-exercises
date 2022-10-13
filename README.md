@@ -129,13 +129,13 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 15.3 - Usando o Redux no React - Prática
 - [x] 15.4 - Usando o Redux no React - Actions Assíncronas
 - [x] 15.5 - Testes em React-Redux
-- [ ] 15.6 - Projeto - Trybe Wallet
+- [x] 15.6 - Projeto - Trybe Wallet
 
-##### Bloco 16: Projeto Jogo de Trivia ![loading](assets/img/hug.gif)
+##### Bloco 16: Projeto Jogo de Trivia <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 16.1 - Projeto - Jogo de Trivia
+- [x] 16.1 - Projeto - Jogo de Trivia
 
-##### Bloco 17: Context API e React Hooks
+##### Bloco 17: Context API e React Hooks ![loading](assets/img/hug.gif)
 
 - [ ] 17.1 - Context API do React
 - [ ] 17.2 - React Hooks - useState e useContext
@@ -423,13 +423,13 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 15.3 - Using Redux in React - Practice
 - [x] 15.4 - Using Redux in React - Asynchronous Actions
 - [x] 15.5 - Tests in React-Redux
-- [ ] 15.6 - Project - Trybe Wallet
+- [x] 15.6 - Project - Trybe Wallet
 
-##### Block 16: Trivia Game Project ![loading](assets/img/hug.gif)
+##### Block 16: Trivia Game Project <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 16.1 - Project - Trivia Game
+- [x] 16.1 - Project - Trivia Game
 
-##### Block 17: Context API and React Hooks
+##### Block 17: Context API and React Hooks ![loading](assets/img/hug.gif)
 
 - [ ] 17.1 - React Context API
 - [ ] 17.2 - React Hooks - useState and useContext
