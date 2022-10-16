@@ -137,7 +137,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ##### Bloco 17: Context API e React Hooks ![loading](assets/img/hug.gif)
 
-- [ ] 17.1 - Context API do React
+- [x] 17.1 - Context API do React
 - [ ] 17.2 - React Hooks - useState e useContext
 - [ ] 17.3 - React Hooks - useEffect e Hooks customizados
 - [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
@@ -431,7 +431,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ##### Block 17: Context API and React Hooks ![loading](assets/img/hug.gif)
 
-- [ ] 17.1 - React Context API
+- [x] 17.1 - React Context API
 - [ ] 17.2 - React Hooks - useState and useContext
 - [ ] 17.3 - React Hooks - useEffect and custom Hooks
 - [ ] 17.4 - Project - StarWars Datatable with Context API and Hooks
