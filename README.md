@@ -82,7 +82,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 8.6 - Projeto - Zoo functions
 
-## Desenvolvimento Front-end
+## Desenvolvimento Front-end <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 ##### Bloco 9: JavaScript e Testes Assíncronos <img src="assets/img/check.gif" alt="Check" width="20px" >
 
@@ -133,22 +133,22 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ##### Bloco 16: Projeto Jogo de Trivia <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [x] 16.1 - Projeto - Jogo de Trivia
+- [x]] 16.1 - Projeto - Jogo de Trivia
 
-##### Bloco 17: Context API e React Hooks ![loading](assets/img/hug.gif)
+##### Bloco 17: Context API e React Hooks <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 17.1 - Context API do React
-- [ ] 17.2 - React Hooks - useState e useContext
-- [ ] 17.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [x] 17.2 - React Hooks - useState e useContext
+- [x] 17.3 - React Hooks - useEffect e Hooks customizados
+- [x] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
 
-##### Bloco 18: Projeto App de Receitas
+##### Bloco 18: Projeto App de Receitas <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 18.1 - Projeto - App de Receitas
+- [x] 18.1 - Projeto - App de Receitas
 
-## Desenvolvimento Back-end
+## Desenvolvimento Back-end ![loading](assets/img/hug.gif)
 
-##### Bloco 19: Projeto App de Receitas
+##### Bloco 19: Projeto App de Receitas ![loading](assets/img/hug.gif)
 
 - [ ] 19.1 - Projeto - App de Receitas
  
@@ -376,7 +376,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 8.5 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
 - [x] 8.6 - Project - Zoo functions
 
-## Front-end development
+## Front-end development <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 ##### Block 9: JavaScript and Asynchronous Tests <img src="assets/img/check.gif" alt="Check" width="20px" >
 
@@ -429,20 +429,20 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 - [x] 16.1 - Project - Trivia Game
 
-##### Block 17: Context API and React Hooks ![loading](assets/img/hug.gif)
+##### Block 17: Context API and React Hooks <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 17.1 - React Context API
-- [ ] 17.2 - React Hooks - useState and useContext
-- [ ] 17.3 - React Hooks - useEffect and custom Hooks
-- [ ] 17.4 - Project - StarWars Datatable with Context API and Hooks
+- [x] 17.2 - React Hooks - useState and useContext
+- [x] 17.3 - React Hooks - useEffect and custom Hooks
+- [x] 17.4 - Project - StarWars Datatable with Context API and Hooks
 
-##### Block 18: Recipe App Project
+##### Block 18: Recipe App Project <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 18.1 - Project - Recipes App
+- [x] 18.1 - Project - Recipes App
 
-## Back-end development
+## Back-end development ![loading](assets/img/hug.gif)
 
-##### Block 19: Recipe App Project
+##### Block 19: Recipe App Project ![loading](assets/img/hug.gif)
 
 - [ ] 19.1 - Project - Recipes App
 
