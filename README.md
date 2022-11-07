@@ -148,15 +148,12 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ## Desenvolvimento Back-end ![loading](assets/img/hug.gif)
  
-##### Bloco 19: Introdução à SQL ![loading](assets/img/hug.gif)
+##### Bloco 19: Docker: Utilizando Containers ![loading](assets/img/hug.gif)
 
-- [ ] 19.1 - Introdução - Back-end
-- [ ] 19.1 - Introdução - Bancos de dados relacionais
-- [ ] 19.1 - Banco de dados SQL
-- [ ] 19.2 - Encontrando dados em um banco de dados
-- [ ] 19.3 - Filtrando dados de forma específica
-- [ ] 19.4 - Manipulando tabelas
-- [ ] 19.5 - Projeto - All For One
+- [ ] 19.1 - Utilizando Containers - Docker
+- [ ] 19.2 - Manipulando Imagens no Docker
+- [ ] 19.3 - Orquestrando Containers com Docker Compose
+- [ ] 19.4 - Projeto - Docker Todo-List
 
 ##### Bloco 20: Funções SQL, Joins e Subqueries
 
@@ -438,15 +435,12 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ## Back-end development ![loading](assets/img/hug.gif)
 
-##### Block 19: Introduction to SQL ![loading](assets/img/hug.gif)
+##### Block 19: Docker: Using Containers ![loading](assets/img/hug.gif)
 
-- [ ] 19.1 - Introduction - Backend
-- [ ] 19.1 - Introduction - Relational Databases
-- [ ] 19.1 - SQL Database
-- [ ] 19.2 - Finding data in a database
-- [ ] 19.3 - Filtering data specifically
-- [ ] 19.4 - Manipulating tables
-- [ ] 19.5 - Project - All For One
+- [ ] 19.1 - Using Containers - Docker
+- [ ] 19.2 - Manipulating Images in Docker
+- [ ] 19.3 - Orchestrating Containers with Docker Compose
+- [ ] 19.4 - Project - Docker Todo-List
 
 ##### Block 20: SQL Functions, Joins and Subqueries
 
