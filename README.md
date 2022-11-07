@@ -10,7 +10,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 > <em> A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
 > O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. </em>
 
-## Fundamentos do Desenvolvimento Web 
+## Fundamentos do Desenvolvimento Web <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 ##### Bloco 1: Unix, Bash e Shell Script  <img src="assets/img/check.gif" alt="Check" width="20px" >
 
@@ -133,7 +133,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ##### Bloco 16: Projeto Jogo de Trivia <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [x]] 16.1 - Projeto - Jogo de Trivia
+- [x] 16.1 - Projeto - Jogo de Trivia
 
 ##### Bloco 17: Context API e React Hooks <img src="assets/img/check.gif" alt="Check" width="20px" >
 
@@ -147,105 +147,101 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 18.1 - Projeto - App de Receitas
 
 ## Desenvolvimento Back-end ![loading](assets/img/hug.gif)
-
-##### Bloco 19: Projeto App de Receitas ![loading](assets/img/hug.gif)
-
-- [ ] 19.1 - Projeto - App de Receitas
  
-##### Bloco 20: Introdução à SQL
+##### Bloco 19: Introdução à SQL ![loading](assets/img/hug.gif)
 
-- [ ] 20.1 - Introdução - Back-end
-- [ ] 20.1 - Introdução - Bancos de dados relacionais
-- [ ] 20.1 - Banco de dados SQL
-- [ ] 20.2 - Encontrando dados em um banco de dados
-- [ ] 20.3 - Filtrando dados de forma específica
-- [ ] 20.4 - Manipulando tabelas
-- [ ] 20.5 - Projeto - All For One
+- [ ] 19.1 - Introdução - Back-end
+- [ ] 19.1 - Introdução - Bancos de dados relacionais
+- [ ] 19.1 - Banco de dados SQL
+- [ ] 19.2 - Encontrando dados em um banco de dados
+- [ ] 19.3 - Filtrando dados de forma específica
+- [ ] 19.4 - Manipulando tabelas
+- [ ] 19.5 - Projeto - All For One
 
-##### Bloco 21: Funções SQL, Joins e Subqueries
+##### Bloco 20: Funções SQL, Joins e Subqueries
 
-- [ ] 21.1 - Funções mais usadas no SQL
-- [ ] 21.2 - Descomplicando JOINs e UNIONs
-- [ ] 21.3 - Stored Routines & Subqueries
-- [ ] 21.4 - Projeto - Vocabulary Booster
+- [ ] 20.1 - Funções mais usadas no SQL
+- [ ] 20.2 - Descomplicando JOINs e UNIONs
+- [ ] 20.3 - Stored Routines & Subqueries
+- [ ] 20.4 - Projeto - Vocabulary Booster
 
-##### Bloco 22: Normalização e Modelagem de Banco de Dados
+##### Bloco 21: Normalização e Modelagem de Banco de Dados
 
-- [ ] 22.1 - Transformando ideias em um modelo de banco de dados
-- [ ] 22.2 - Normalização, Formas Normais e Dumps
-- [ ] 22.3 - Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] 22.4 - Projeto - One For All
+- [ ] 21.1 - Transformando ideias em um modelo de banco de dados
+- [ ] 21.2 - Normalização, Formas Normais e Dumps
+- [ ] 21.3 - Transformando ideias em um modelo de banco de dados - Parte 2
+- [ ] 21.4 - Projeto - One For All
 
-##### Bloco 23: Introdução ao MongoDB]
+##### Bloco 22: Introdução ao MongoDB]
 
-- [ ] 23.1 - Introdução - NoSQL
-- [ ] 23.1 - MongoDB - Introdução
-- [ ] 23.2 - Filter Operators
-- [ ] 23.3 - Projeto - Data Flights
+- [ ] 22.1 - Introdução - NoSQL
+- [ ] 22.1 - MongoDB - Introdução
+- [ ] 22.2 - Filter Operators
+- [ ] 22.3 - Projeto - Data Flights
 
-##### Bloco 24: MongoDB: Updates Simples e Complexos
+##### Bloco 23: MongoDB: Updates Simples e Complexos
 
-- [ ] 24.1 - Updates Simples
-- [ ] 24.2 - Updates Complexos - Arrays - Parte 1
-- [ ] 24.3 - Updates Complexos - Arrays - Parte 2
-- [ ] 24.4 - Projeto - Commerce
+- [ ] 23.1 - Updates Simples
+- [ ] 23.2 - Updates Complexos - Arrays - Parte 1
+- [ ] 23.3 - Updates Complexos - Arrays - Parte 2
+- [ ] 23.4 - Projeto - Commerce
 
-##### Bloco 25: MongoDB: Aggregation Framework
+##### Bloco 24: MongoDB: Aggregation Framework
 
-- [ ] 25.1 - Aggregation Framework - Parte 1
-- [ ] 25.2 - Aggregation Framework - Parte 2
-- [ ] 25.3 - Projeto - Aggregations
+- [ ] 24.1 - Aggregation Framework - Parte 1
+- [ ] 24.2 - Aggregation Framework - Parte 2
+- [ ] 24.3 - Projeto - Aggregations
 
-##### Bloco 26: Introdução ao desenvolvimento Web com NodeJS
+##### Bloco 25: Introdução ao desenvolvimento Web com NodeJS
 
-- [ ] 26.1 - Intro - NodeJS
-- [ ] 26.1 - NodeJS - Introdução
-- [ ] 26.2 - NodeJS - Fluxo Assíncrono
-- [ ] 26.3 - Testes com NodeJS
-- [ ] 26.4 - Express: HTTP com Node.js
-- [ ] 26.5 - Praticando Express
-- [ ] 26.6 - Projeto - Talker manager
+- [ ] 25.1 - Intro - NodeJS
+- [ ] 25.1 - NodeJS - Introdução
+- [ ] 25.2 - NodeJS - Fluxo Assíncrono
+- [ ] 25.3 - Testes com NodeJS
+- [ ] 25.4 - Express: HTTP com Node.js
+- [ ] 25.5 - Praticando Express
+- [ ] 25.6 - Projeto - Talker manager
 
-##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
+##### Bloco 26: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
 
-- [ ] 27.1 - Introdução - Arquitetura de Software
-- [ ] 27.1 - Arquitetura de Software - Camada de Model
-- [ ] 27.2 - Arquitetura de Software - Camada de Controller e Service
-- [ ] 27.3 - Arquitetura Web - Rest e Restful
-- [ ] 27.4 - Arquitetura de Software - Testando as Camadas
-- [ ] 27.5 - Projeto - Store Manager
+- [ ] 26.1 - Introdução - Arquitetura de Software
+- [ ] 26.1 - Arquitetura de Software - Camada de Model
+- [ ] 26.2 - Arquitetura de Software - Camada de Controller e Service
+- [ ] 26.3 - Arquitetura Web - Rest e Restful
+- [ ] 26.4 - Arquitetura de Software - Testando as Camadas
+- [ ] 26.5 - Projeto - Store Manager
 
-##### Bloco 28: Autenticação e Upload de Arquivos
+##### Bloco 27: Autenticação e Upload de Arquivos
 
-- [ ] 28.1 - NodeJS - JWT - (JSON Web Token)
-- [ ] 28.2 - NodeJS - Upload de arquivos com Multer
-- [ ] 28.3 - NodeJS - Testando APIs com Testes de Integração
-- [ ] 28.4 - Projeto - Cookmaster
+- [ ] 27.1 - NodeJS - JWT - (JSON Web Token)
+- [ ] 27.2 - NodeJS - Upload de arquivos com Multer
+- [ ] 27.3 - NodeJS - Testando APIs com Testes de Integração
+- [ ] 27.4 - Projeto - Cookmaster
 
-##### Bloco 29: Deployment
+##### Bloco 28: Deployment
 
-- [ ] 29.1 - Introdução - Deploy
-- [ ] 29.1 - Infraestrutura - Deploy com Heroku
-- [ ] 29.2 - Deploy - Gerenciadores de Processos
-- [ ] 29.3 - Projeto - Stranger Things
+- [ ] 28.1 - Introdução - Deploy
+- [ ] 28.1 - Infraestrutura - Deploy com Heroku
+- [ ] 28.2 - Deploy - Gerenciadores de Processos
+- [ ] 28.3 - Projeto - Stranger Things
 
-##### Bloco 30: Arquitetura: SOLID e ORM
+##### Bloco 29: Arquitetura: SOLID e ORM
 
-- [ ] 30.1 - Arquitetura - Princípios SOLID
-- [ ] 30.2 - ORM - Interface da aplicação com o banco de dados
-- [ ] 30.3 - ORM - Associations
-- [ ] 30.4 - Boas práticas na escrita de testes
-- [ ] 30.5 - Projeto - API de Blogs
+- [ ] 29.1 - Arquitetura - Princípios SOLID
+- [ ] 29.2 - ORM - Interface da aplicação com o banco de dados
+- [ ] 29.3 - ORM - Associations
+- [ ] 29.4 - Boas práticas na escrita de testes
+- [ ] 29.5 - Projeto - API de Blogs
 
-##### Bloco 31: Sockets
+##### Bloco 30: Sockets
 
-- [ ] 31.1 - Sockets - TCP/UDP & NET
-- [ ] 31.2 - Sockets - Socket.io
-- [ ] 31.3 - Projeto - Webchat
+- [ ] 30.1 - Sockets - TCP/UDP & NET
+- [ ] 30.2 - Sockets - Socket.io
+- [ ] 30.3 - Projeto - Webchat
 
-##### Bloco 32: Projeto Trybeer II
+##### Bloco 31: Projeto Trybeer II
 
-- [ ] 32.1 - Projeto - Trybeer v2
+- [ ] 31.1 - Projeto - Trybeer v2
 
 ## Ciência da Computação
 
@@ -442,104 +438,100 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ## Back-end development ![loading](assets/img/hug.gif)
 
-##### Block 19: Recipe App Project ![loading](assets/img/hug.gif)
+##### Block 19: Introduction to SQL ![loading](assets/img/hug.gif)
 
-- [ ] 19.1 - Project - Recipes App
+- [ ] 19.1 - Introduction - Backend
+- [ ] 19.1 - Introduction - Relational Databases
+- [ ] 19.1 - SQL Database
+- [ ] 19.2 - Finding data in a database
+- [ ] 19.3 - Filtering data specifically
+- [ ] 19.4 - Manipulating tables
+- [ ] 19.5 - Project - All For One
 
-##### Block 20: Introduction to SQL
+##### Block 20: SQL Functions, Joins and Subqueries
 
-- [ ] 20.1 - Introduction - Backend
-- [ ] 20.1 - Introduction - Relational Databases
-- [ ] 20.1 - SQL Database
-- [ ] 20.2 - Finding data in a database
-- [ ] 20.3 - Filtering data specifically
-- [ ] 20.4 - Manipulating tables
-- [ ] 20.5 - Project - All For One
+- [ ] 20.1 - Most used functions in SQL
+- [ ] 20.2 - Uncomplicating JOINs and UNIONs
+- [ ] 20.3 - Stored Routines & Subqueries
+- [ ] 20.4 - Project - Vocabulary Booster
 
-##### Block 21: SQL Functions, Joins and Subqueries
+##### Block 21: Database Normalization and Modeling
 
-- [ ] 21.1 - Most used functions in SQL
-- [ ] 21.2 - Uncomplicating JOINs and UNIONs
-- [ ] 21.3 - Stored Routines & Subqueries
-- [ ] 21.4 - Project - Vocabulary Booster
+- [ ] 21.1 - Transforming ideas into a database model
+- [ ] 21.2 - Normalization, Normal Forms and Dumps
+- [ ] 21.3 - Transforming ideas into a database model - Part 2
+- [ ] 21.4 - Project - One For All
 
-##### Block 22: Database Normalization and Modeling
+##### Block 22: Introduction to MongoDB]
 
-- [ ] 22.1 - Transforming ideas into a database model
-- [ ] 22.2 - Normalization, Normal Forms and Dumps
-- [ ] 22.3 - Transforming ideas into a database model - Part 2
-- [ ] 22.4 - Project - One For All
+- [ ] 22.1 - Introduction - NoSQL
+- [ ] 22.1 - MongoDB - Introduction
+- [ ] 22.2 - Filter Operators
+- [ ] 22.3 - Project - Data Flights
 
-##### Block 23: Introduction to MongoDB]
+##### Block 23: MongoDB: Simple and Complex Updates
 
-- [ ] 23.1 - Introduction - NoSQL
-- [ ] 23.1 - MongoDB - Introduction
-- [ ] 23.2 - Filter Operators
-- [ ] 23.3 - Project - Data Flights
+- [ ] 23.1 - Simple Updates
+- [ ] 23.2 - Complex Updates - Arrays - Part 1
+- [ ] 23.3 - Complex Updates - Arrays - Part 2
+- [ ] 23.4 - Project - Commerce
 
-##### Block 24: MongoDB: Simple and Complex Updates
+##### Block 24: MongoDB: Aggregation Framework
 
-- [ ] 24.1 - Simple Updates
-- [ ] 24.2 - Complex Updates - Arrays - Part 1
-- [ ] 24.3 - Complex Updates - Arrays - Part 2
-- [ ] 24.4 - Project - Commerce
+- [ ] 24.1 - Aggregation Framework - Part 1
+- [ ] 24.2 - Aggregation Framework - Part 2
+- [ ] 24.3 - Project - Aggregations
 
-##### Block 25: MongoDB: Aggregation Framework
+##### Block 25: Introduction to Web Development with NodeJS
 
-- [ ] 25.1 - Aggregation Framework - Part 1
-- [ ] 25.2 - Aggregation Framework - Part 2
-- [ ] 25.3 - Project - Aggregations
+- [ ] 25.1 - Intro - NodeJS
+- [ ] 25.1 - NodeJS - Introduction
+- [ ] 25.2 - NodeJS - Asynchronous Flow
+- [ ] 25.3 - Tests with NodeJS
+- [ ] 25.4 - Express: HTTP with Node.js
+- [ ] 25.5 - Practicing Express
+- [ ] 25.6 - Project - Talker manager
 
-##### Block 26: Introduction to Web Development with NodeJS
+##### Block 26: NodeJS: Service Layer and Rest and Restful Architecture
 
-- [ ] 26.1 - Intro - NodeJS
-- [ ] 26.1 - NodeJS - Introduction
-- [ ] 26.2 - NodeJS - Asynchronous Flow
-- [ ] 26.3 - Tests with NodeJS
-- [ ] 26.4 - Express: HTTP with Node.js
-- [ ] 26.5 - Practicing Express
-- [ ] 26.6 - Project - Talker manager
+- [ ] 26.1 - Introduction - Software Architecture
+- [ ] 26.1 - Software Architecture - Model Layer
+- [ ] 26.2 - Software Architecture - Controller and Service Layer
+- [ ] 26.3 - Web Architecture - Rest and Restful
+- [ ] 26.4 - Software Architecture - Testing the Layers
+- [ ] 26.5 - Project - Store Manager
 
-##### Block 27: NodeJS: Service Layer and Rest and Restful Architecture
+##### Block 27: Authentication and File Upload
 
-- [ ] 27.1 - Introduction - Software Architecture
-- [ ] 27.1 - Software Architecture - Model Layer
-- [ ] 27.2 - Software Architecture - Controller and Service Layer
-- [ ] 27.3 - Web Architecture - Rest and Restful
-- [ ] 27.4 - Software Architecture - Testing the Layers
-- [ ] 27.5 - Project - Store Manager
+- [ ] 27.1 - NodeJS - JWT - (JSON Web Token)
+- [ ] 27.2 - NodeJS - Upload files with Multer
+- [ ] 27.3 - NodeJS - Testing APIs with Integration Tests
+- [ ] 27.4 - Project - Cookmaster
 
-##### Block 28: Authentication and File Upload
+##### Block 28: Deployment
 
-- [ ] 28.1 - NodeJS - JWT - (JSON Web Token)
-- [ ] 28.2 - NodeJS - Upload files with Multer
-- [ ] 28.3 - NodeJS - Testing APIs with Integration Tests
-- [ ] 28.4 - Project - Cookmaster
+- [ ] 28.1 - Introduction - Deploy
+- [ ] 28.1 - Infrastructure - Deploy with Heroku
+- [ ] 28.2 - Deploy - Process Managers
+- [ ] 28.3 - Project - Stranger Things
 
-##### Block 29: Deployment
+##### Block 29: Architecture: SOLID and ORM
 
-- [ ] 29.1 - Introduction - Deploy
-- [ ] 29.1 - Infrastructure - Deploy with Heroku
-- [ ] 29.2 - Deploy - Process Managers
-- [ ] 29.3 - Project - Stranger Things
+- [ ] 29.1 - Architecture - SOLID Principles
+- [ ] 29.2 - ORM - Interface of the application with the database
+- [ ] 29.3 - ORM - Associations
+- [ ] 29.4 - Good practices in test writing
+- [ ] 29.5 - Project - Blogs API
 
-##### Block 30: Architecture: SOLID and ORM
+##### Block 30: Sockets
 
-- [ ] 30.1 - Architecture - SOLID Principles
-- [ ] 30.2 - ORM - Interface of the application with the database
-- [ ] 30.3 - ORM - Associations
-- [ ] 30.4 - Good practices in test writing
-- [ ] 30.5 - Project - Blogs API
+- [ ] 30.1 - Sockets - TCP/UDP & NET
+- [ ] 30.2 - Sockets - Socket.io
+- [ ] 30.3 - Project - Webchat
 
-##### Block 31: Sockets
+##### Block 31: Trybeer II Project
 
-- [ ] 31.1 - Sockets - TCP/UDP & NET
-- [ ] 31.2 - Sockets - Socket.io
-- [ ] 31.3 - Project - Webchat
-
-##### Block 32: Trybeer II Project
-
-- [ ] 32.1 - Project - Trybeer v2
+- [ ] 31.1 - Project - Trybeer v2
 
 ## Computer Science
 
