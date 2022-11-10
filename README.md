@@ -150,8 +150,8 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
  
 ##### Bloco 19: Docker: Utilizando Containers ![loading](assets/img/hug.gif)
 
-- [ ] 19.1 - Utilizando Containers - Docker
-- [ ] 19.2 - Manipulando Imagens no Docker
+- [x] 19.1 - Utilizando Containers - Docker
+- [x] 19.2 - Manipulando Imagens no Docker
 - [ ] 19.3 - Orquestrando Containers com Docker Compose
 - [ ] 19.4 - Projeto - Docker Todo-List
 
@@ -437,8 +437,8 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ##### Block 19: Docker: Using Containers ![loading](assets/img/hug.gif)
 
-- [ ] 19.1 - Using Containers - Docker
-- [ ] 19.2 - Manipulating Images in Docker
+- [x] 19.1 - Using Containers - Docker
+- [x] 19.2 - Manipulating Images in Docker
 - [ ] 19.3 - Orchestrating Containers with Docker Compose
 - [ ] 19.4 - Project - Docker Todo-List
 
