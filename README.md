@@ -148,19 +148,20 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ## Desenvolvimento Back-end ![loading](assets/img/hug.gif)
  
-##### Bloco 19: Docker: Utilizando Containers ![loading](assets/img/hug.gif)
+##### Bloco 19: Docker: Utilizando Containers <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 19.1 - Utilizando Containers - Docker
 - [x] 19.2 - Manipulando Imagens no Docker
-- [ ] 19.3 - Orquestrando Containers com Docker Compose
-- [ ] 19.4 - Projeto - Docker Todo-List
+- [x] 19.3 - Orquestrando Containers com Docker Compose
+- [x] 19.4 - Projeto - Docker Todo-List
 
-##### Bloco 20: Funções SQL, Joins e Subqueries
+##### Bloco 20: Introdução à SQL ![loading](assets/img/hug.gif)
 
-- [ ] 20.1 - Funções mais usadas no SQL
-- [ ] 20.2 - Descomplicando JOINs e UNIONs
-- [ ] 20.3 - Stored Routines & Subqueries
-- [ ] 20.4 - Projeto - Vocabulary Booster
+- [x] 20.1 - Banco de dados SQL
+- [ ] 20.2 - Encontrando dados em um banco de dados
+- [ ] 20.3 - Filtrando dados de forma específica
+- [ ] 20.4 - Manipulando tabelas
+- [ ] 20.5 - Projeto - All For One
 
 ##### Bloco 21: Normalização e Modelagem de Banco de Dados
 
@@ -435,19 +436,20 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ## Back-end development ![loading](assets/img/hug.gif)
 
-##### Block 19: Docker: Using Containers ![loading](assets/img/hug.gif)
+##### Block 19: Docker: Using Containers <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 19.1 - Using Containers - Docker
 - [x] 19.2 - Manipulating Images in Docker
-- [ ] 19.3 - Orchestrating Containers with Docker Compose
-- [ ] 19.4 - Project - Docker Todo-List
+- [x] 19.3 - Orchestrating Containers with Docker Compose
+- [x] 19.4 - Project - Docker Todo-List
 
-##### Block 20: SQL Functions, Joins and Subqueries
+##### Block 20: Introduction to SQL ![loading](assets/img/hug.gif)
 
-- [ ] 20.1 - Most used functions in SQL
-- [ ] 20.2 - Uncomplicating JOINs and UNIONs
-- [ ] 20.3 - Stored Routines & Subqueries
-- [ ] 20.4 - Project - Vocabulary Booster
+- [x] 20.1 - SQL Database
+- [ ] 20.2 - Finding data in a database
+- [ ] 20.3 - Filtering data specifically
+- [ ] 20.4 - Manipulating tables
+- [ ] 20.5 - Project - All For One
 
 ##### Block 21: Database Normalization and Modeling
 
