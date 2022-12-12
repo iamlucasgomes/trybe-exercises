@@ -15,3 +15,24 @@ const charactersList = async () => {
 };
 
 charactersList();
+
+// B - Crie uma função que receba o id de uma personagem como parâmetro e retorne uma Promise que é resolvida com os dados da personagem que possui o id informado. Caso não haja uma personagem com o id informado, rejeite a Promise com o motivo “id não encontrado”.
+
+const requestJson = async (id) => {
+  const data = await fs.readFile(path.resolve(__dirname, './src/assets/simpsons.json'));
+  const result = JSON.parse(data);
+
+  const findId = result.find((character) => Number(character.id) === id);
+
+const promise = new Promise((resolve, reject) => {
+  if (findId) {
+    resolve(console.log(findId));
+  } else {
+    reject(Error('id não encontrado'));
+  }
+
+  console.log(promise);
+});
+};
+
+requestJson(1);
