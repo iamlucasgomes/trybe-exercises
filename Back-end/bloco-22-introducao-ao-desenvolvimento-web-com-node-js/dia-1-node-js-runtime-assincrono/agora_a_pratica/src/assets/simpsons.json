@@ -20,10 +20,6 @@
     "name": "Maggie Simpson"
   },
   {
-    "id": "6",
-    "name": "Ned Flanders"
-  },
-  {
     "id": "7",
     "name": "Montgomery Burns"
   },
@@ -34,9 +30,5 @@
   {
     "id": "9",
     "name": "Krusty"
-  },
-  {
-    "id": "10",
-    "name": "Milhouse Van Houten"
   }
 ]
