@@ -55,3 +55,21 @@ const editJson = async () => {
 };
 
 editJson();
+
+// D - Crie uma função que leia o arquivo simpsons.json e crie um novo arquivo, chamado simpsonFamily.json, contendo as personagens com id de 1 a 4.
+
+const simpsonFamily = async () => {
+  const data = await fs.readFile(path.resolve(__dirname, diretorio));
+  const result = JSON.parse(data);
+
+  try {
+    await fs.writeFile(path
+      .resolve(__dirname, './src/assets/simpsonFamily.json'), JSON.stringify(result
+    .filter((simpson) => Number(simpson.id) <= 4)));
+    console.log('Arquivo escrito com sucesso!');
+  } catch (err) {
+    console.error(`Erro ao escrever o arquivo: ${err.message}`);
+  }
+};
+
+simpsonFamily();
