@@ -7,7 +7,8 @@
     "start": "node bmi.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "bmi": "node bmi.js",
-    "simpsons": "node simpsons.js"
+    "simpsons": "node simpsons.js",
+    "fibonacci": "node fibonacci.js"
   },
   "keywords": [],
   "author": "",
