@@ -1,0 +1,22 @@
+{
+  "name": "agora_a_pratica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bmi.js",
+  "scripts": {
+    "start": "node bmi.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bmi": "node bmi.js",
+    "simpsons": "node simpsons.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-trybe-backend": "^2.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
