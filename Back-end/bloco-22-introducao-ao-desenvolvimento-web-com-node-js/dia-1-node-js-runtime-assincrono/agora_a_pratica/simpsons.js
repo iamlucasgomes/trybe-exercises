@@ -2,6 +2,10 @@ const fs = require('fs').promises;
 const path = require('path');
 
 const diretorio = './src/assets/simpsons.json';
+const diretorioFamily = './src/assets/simpsonFamily.json';
+
+const sucessfull = 'Arquivo escrito com sucesso!';
+const fail = 'Erro ao escrever o arquivo:';
 
 // A - Crie uma função que leia todos os dados do arquivo e imprima cada personagem no formato id - Nome. Por exemplo: 1 - Homer Simpson.
 
@@ -44,9 +48,9 @@ const editJson = async () => {
   try {
     await fs.writeFile(path.resolve(__dirname, diretorio), JSON.stringify(result
     .filter((simpson) => Number(simpson.id) !== 6 && Number(simpson.id) !== 10)));
-    console.log('Arquivo escrito com sucesso!');
+    console.log(sucessfull);
   } catch (err) {
-    console.error(`Erro ao escrever o arquivo: ${err.message}`);
+    console.error(`${fail} ${err.message}`);
   }
 };
 
@@ -58,24 +62,51 @@ const simpsonFamily = async () => {
 
   try {
     await fs.writeFile(path
-      .resolve(__dirname, './src/assets/simpsonFamily.json'), JSON.stringify(result
+      .resolve(__dirname, diretorioFamily), JSON.stringify(result
     .filter((simpson) => Number(simpson.id) <= 4)));
-    console.log('Arquivo escrito com sucesso!');
+    console.log(sucessfull);
   } catch (err) {
-    console.error(`Erro ao escrever o arquivo: ${err.message}`);
+    console.error(`${fail} ${err.message}`);
   }
 };
 
+// E - Crie uma função que adicione ao arquivo simpsonFamily.json o personagem Nelson Muntz.
+
 const addNelson = async () => {
-  const data = await fs.readFile(path.resolve(__dirname, './src/assets/simpsonFamily.json'));
+  const data = await fs.readFile(path.resolve(__dirname, diretorioFamily));
   const result = JSON.parse(data);
 
   try {
     await fs.writeFile(path
-      .resolve(__dirname, './src/assets/simpsonFamily.json'), JSON
+      .resolve(__dirname, diretorioFamily), JSON
       .stringify([...result, { id: String(result.length + 1), name: 'Nelson Muntz' }]));
-    console.log('Arquivo escrito com sucesso!');
+    console.log(sucessfull);
   } catch (err) {
-    console.error(`Erro ao escrever o arquivo: ${err.message}`);
+    console.error(`${fail} ${err.message}`);
   }
 };
+
+// F - Crie uma função que substitua o personagem Nelson Muntz pela personagem Maggie Simpson no arquivo simpsonFamily.json.
+
+const replaceCharacter = async () => {
+  const data = await fs.readFile(path.resolve(__dirname, diretorioFamily));
+  const result = JSON.parse(data);
+  const oldJson = result.filter((simpson) => Number(simpson.id) !== 5);
+
+  try {
+    await fs.writeFile(path
+      .resolve(__dirname, diretorioFamily), JSON
+      .stringify([...oldJson,
+        { id: String(oldJson.length + 1), name: 'Maggie Simpson' }]));
+    console.log(sucessfull);
+  } catch (err) {
+    console.error(`${fail} ${err.message}`);
+  }
+};
+
+charactersList();
+requestJson(1);
+editJson();
+simpsonFamily();
+addNelson();
+replaceCharacter();
