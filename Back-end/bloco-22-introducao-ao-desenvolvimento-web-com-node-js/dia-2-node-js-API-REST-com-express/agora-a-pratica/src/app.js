@@ -7,8 +7,17 @@ const path = require('path')
 
 const app = express();
 app.use(express.json())
+
 app.get('/movies', (_req, res) => {
   res.status(200).json(movies);
+})
+
+app.get('/movies/search', (req, res) => {
+  const { q } = req.query;
+  const newArray = movies.filter((movie) => movie.movie.toLowerCase().includes(q.toLowerCase()))
+  if(!newArray) { return res.status(200).json('[]');  }
+  return res.status(200).json(newArray);
+  
 })
 
 app.get('/movies/:id', (req, res) => {
