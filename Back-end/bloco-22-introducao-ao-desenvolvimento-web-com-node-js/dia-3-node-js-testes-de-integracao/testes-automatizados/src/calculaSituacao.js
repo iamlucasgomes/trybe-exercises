@@ -1,5 +1,5 @@
 function calculaSituacao(media) {
-  if (media > 7) {
+  if (media >= 7) {
     return 'aprovação';
   }
 
