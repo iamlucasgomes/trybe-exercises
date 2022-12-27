@@ -8,6 +8,9 @@ const { expect } = chai;
 
 chai.use(chaiHttp);
 
+const mintIntense = 'Mint Intense';
+const whiteCoconut = 'White Coconut';
+
 const mockFile = JSON.stringify({ 
   brands: [
     {
@@ -26,12 +29,12 @@ const mockFile = JSON.stringify({
   chocolates: [
     {
       id: 1,
-      name: 'Mint Intense',
+      name: mintIntense,
       brandId: 1,
     },
     {
       id: 2,
-      name: 'White Coconut',
+      name: whiteCoconut,
       brandId: 1,
     },
     {
@@ -59,8 +62,8 @@ describe('Testando a API Cacau Trybe', function () {
   describe('Usando o método GET em /chocolates', function () {
     it('Retorna a lista completa de chocolates!', async function () {
       const output = [
-        { id: 1, name: 'Mint Intense', brandId: 1 },
-        { id: 2, name: 'White Coconut', brandId: 1 },
+        { id: 1, name: mintIntense, brandId: 1 },
+        { id: 2, name: whiteCoconut, brandId: 1 },
         { id: 3, name: 'Mon Chéri', brandId: 2 },
         { id: 4, name: 'Mounds', brandId: 3 },
       ];
@@ -111,15 +114,74 @@ describe('Testando a API Cacau Trybe', function () {
       expect(response.body.chocolates).to.deep.equal([
         {
           id: 1,
-          name: 'Mint Intense',
+          name: mintIntense,
           brandId: 1,
         },
         {
           id: 2,
-          name: 'White Coconut',
+          name: whiteCoconut,
           brandId: 1,
         },
       ]);
     });
   });
+
+  describe(
+'Usando o método GET em /chocolates/total para buscar a quantidade total de chocolates',
+  function () {
+    it('Retornar a quantidade de tipos de chocolates que existem.', async function () {
+      const response = await chai
+        .request(app)
+        .get('/chocolates/total');
+
+        const output = {
+          totalChocolates: 4,
+        };
+
+        expect(response.body.totalChocolates).to.be.equal(4);
+        expect(response.status).to.be.equal(200);
+        expect(response.body).to.deep.equal(output);
+    });
+  },
+);
+
+describe('Usando o método Get em /chocolates/search, pesquise chocolates por nome', function () {
+  it(
+'Esse endpoint deve retornar os chocolates que contém uma determinada palavra em seu nome',
+  async function () {
+    const response = await chai
+        .request(app)
+        .get('/chocolates/search?name=mo');
+
+        const output = [
+          {
+            id: 3,
+            name: 'Mon Chéri',
+            brandId: 2,
+          },
+          {
+            id: 4,
+            name: 'Mounds',
+            brandId: 3,
+          },
+        ];
+
+        expect(response.status).to.be.equal(200);
+        expect(response.body).to.deep.equal(output);
+  },
+);
+it(
+'se o não for encontrado correspondencia no banco de dados, deve retornar um array vazio', 
+async function () {
+  const response = await chai
+  .request(app)
+  .get('/chocolates/search?name=ca');
+
+  const output = [];
+  
+  expect(response.status).to.be.equal(404);
+  expect(response.body).to.deep.equal(output);
+},
+);
+});
 });
