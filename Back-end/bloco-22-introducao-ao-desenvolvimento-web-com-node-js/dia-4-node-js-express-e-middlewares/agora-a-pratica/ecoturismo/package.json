@@ -1,0 +1,22 @@
+{
+  "name": "ecoturismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server/server.js",
+    "start:dev": "nodemon src/server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-trybe-backend": "^2.1.0",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20"
+  }
+}
