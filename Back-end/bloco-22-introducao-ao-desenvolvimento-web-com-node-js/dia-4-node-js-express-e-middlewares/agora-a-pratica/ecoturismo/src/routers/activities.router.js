@@ -1,4 +1,8 @@
 const express = require('express');
+const { validateIfDescriptionHasAllRequiredKeys,
+  validateCreatedAt, validateRating, validateDifficulty } = require(
+  '../middlewares/validateDescription.middleware',
+);
 const { validateIfNameExists,
   validateNameSize } = require('../middlewares/validateName.middleware');
 const { validateIfPriceExists,
@@ -11,7 +15,11 @@ router.post(
 validateIfNameExists,
 validateNameSize, 
 validateIfPriceExists, 
-validatePriceGreaterThanOrEqualToZero, 
+validatePriceGreaterThanOrEqualToZero,
+validateIfDescriptionHasAllRequiredKeys,
+validateCreatedAt,
+validateRating,
+validateDifficulty,
 (_req, res) => res.status(201)
 .json({ message: 'Atividade cadastrada com sucesso!' }),
 );
