@@ -179,7 +179,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 22.5 - Express e MySQL
 - [x] 22.6 - Projeto - Talker Manager
 
-##### Bloco 23: Arquitetura de Software: Model, Service e Controller ![loading](assets/img/hug.gif)
+##### Bloco 23: Arquitetura de Software: Model, Service e Controller <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 23.1 - Arquitetura de Software: Camada Model
 - [x] 23.2 - Arquitetura de Software: Camada Service
@@ -463,7 +463,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 22.5 - Express and MySQL
 - [x] 22.6 - Project - Talker Manager
 
-##### Block 23: Software Architecture: Model, Service and Controller ![loading](assets/img/hug.gif)
+##### Block 23: Software Architecture: Model, Service and Controller <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 23.1 - Software Architecture: Model Layer
 - [x] 23.2 - Software Architecture: Service Layer
