@@ -181,31 +181,31 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ##### Bloco 23: Arquitetura de Software: Model, Service e Controller ![loading](assets/img/hug.gif)
 
-- [ ] 23.1 - Arquitetura de Software: Camada Model
-- [ ] 23.2 - Arquitetura de Software: Camada Service
-- [ ] 23.3 - Arquitetura de Software: Camada Controller
-- [ ] 23.4 - Projeto - Store Manager
+- [x] 23.1 - Arquitetura de Software: Camada Model
+- [x] 23.2 - Arquitetura de Software: Camada Service
+- [x] 23.3 - Arquitetura de Software: Camada Controller
+- [x] 23.4 - Projeto - Store Manager
 
-##### Bloco 24: Node.js: ORM e Autenticação
+##### Bloco 24: Node.js: ORM e Autenticação <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 24.1 - ORM - Interface da aplicação com o banco de dados
-- [ ] 24.2 - ORM - Associations 1:1 e 1:N
-- [ ] 24.3 - ORM - Associations N:N e Transactions
-- [ ] 24.4 - JWT - (JSON Web Token)
-- [ ] 24.5 - Projeto - API de Blogs
+- [x] 24.1 - ORM - Interface da aplicação com o banco de dados
+- [x] 24.2 - ORM - Associations 1:1 e 1:N
+- [x] 24.3 - ORM - Associations N:N e Transactions
+- [x] 24.4 - JWT - (JSON Web Token)
+- [x] 24.5 - Projeto - API de Blogs
 
-##### Bloco 25: Masterclass: Implantação de Aplicações na Nuvem
+##### Bloco 25: Masterclass: Implantação de Aplicações na Nuvem <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 25.1 - Infraestrutura: Deploy com Railway
+- [x] 25.1 - Infraestrutura: Deploy com Railway
 
-##### Bloco 26: Introdução a TypeScript
+##### Bloco 26: Introdução a TypeScript <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 26.1 - Introdução ao TypeScript
-- [ ] 26.2 - Tipagem Estática e Generics
-- [ ] 26.3 - Express com TypeScript
-- [ ] 26.4 - Projeto - Trybesmith
+- [x] 26.1 - Introdução ao TypeScript
+- [x] 26.2 - Tipagem Estática e Generics
+- [x] 26.3 - Express com TypeScript
+- [x] 26.4 - Projeto - Trybesmith
 
-##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
+##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID ![loading](assets/img/hug.gif)
 
 - [ ] 27.1 - Introdução à Orientação a Objetos
 - [ ] 27.2 - Herança e Composição
@@ -465,31 +465,31 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ##### Block 23: Software Architecture: Model, Service and Controller ![loading](assets/img/hug.gif)
 
-- [ ] 23.1 - Software Architecture: Model Layer
-- [ ] 23.2 - Software Architecture: Service Layer
-- [ ] 23.3 - Software Architecture: Controller Layer
-- [ ] 23.4 - Project - Store Manager
+- [x] 23.1 - Software Architecture: Model Layer
+- [x] 23.2 - Software Architecture: Service Layer
+- [x] 23.3 - Software Architecture: Controller Layer
+- [x] 23.4 - Project - Store Manager
 
-##### Block 24: Node.js: ORM and Authentication
+##### Block 24: Node.js: ORM and Authentication <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 24.1 - ORM - Application interface with the database
-- [ ] 24.2 - ORM - Associations 1:1 and 1:N
-- [ ] 24.3 - ORM - N:N Associations and Transactions
-- [ ] 24.4 - JWT - (JSON Web Token)
-- [ ] 24.5 - Project - Blogs API
+- [x] 24.1 - ORM - Application interface with the database
+- [x] 24.2 - ORM - Associations 1:1 and 1:N
+- [x] 24.3 - ORM - N:N Associations and Transactions
+- [x] 24.4 - JWT - (JSON Web Token)
+- [x] 24.5 - Project - Blogs API
 
-##### Block 25: Masterclass: Cloud Application Deployment
+##### Block 25: Masterclass: Cloud Application Deployment <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 25.1 - Infrastructure: Deploy with Railway
+- [x] 25.1 - Infrastructure: Deploy with Railway
 
-##### Block 26: Introduction to TypeScript
+##### Block 26: Introduction to TypeScript <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 26.1 - Introduction to TypeScript
-- [ ] 26.2 - Static Typing and Generics
-- [ ] 26.3 - Express with TypeScript
-- [ ] 26.4 - Project - Trybesmith
+- [x] 26.1 - Introduction to TypeScript
+- [x] 26.2 - Static Typing and Generics
+- [x] 26.3 - Express with TypeScript
+- [x] 26.4 - Project - Trybesmith
 
-##### Block 27: Object Oriented Programming (OOP) and SOLID
+##### Block 27: Object Oriented Programming (OOP) and SOLID ![loading](assets/img/hug.gif)
 
 - [ ] 27.1 - Introduction to Object Orientation
 - [ ] 27.2 - Inheritance and Composition
