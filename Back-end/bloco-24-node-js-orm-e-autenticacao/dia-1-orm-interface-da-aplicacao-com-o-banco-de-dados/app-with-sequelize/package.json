@@ -1,0 +1,28 @@
+{
+  "name": "app-with-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "mocha tests/**/**.test.js --exit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "10.0",
+    "express": "4.17",
+    "mysql2": "2.3",
+    "sequelize": "6.3"
+  },
+  "devDependencies": {
+    "chai": "4.3",
+    "chai-http": "4.3",
+    "mocha": "10.0",
+    "nodemon": "2.0.20",
+    "sequelize-cli": "6.2",
+    "sequelize-test-helpers": "1.4",
+    "sinon": "14.0"
+  }
+}
