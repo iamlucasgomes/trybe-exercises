@@ -205,20 +205,20 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 26.3 - Express com TypeScript
 - [x] 26.4 - Projeto - Trybesmith
 
-##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID ![loading](assets/img/hug.gif)
+##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 27.1 - Introdução à Orientação a Objetos
-- [ ] 27.2 - Herança e Composição
-- [ ] 27.3 - Polimorfismo
-- [ ] 27.4 - SOLID - Introdução e Princípios S, O e D
-- [ ] 27.5 - SOLID - Princípios L e I
-- [ ] 27.6 - Projeto - Trybers and Dragons
+- [x] 27.1 - Introdução à Orientação a Objetos
+- [x] 27.2 - Herança e Composição
+- [x] 27.3 - Polimorfismo
+- [x] 27.4 - SOLID - Introdução e Princípios S, O e D
+- [x] 27.5 - SOLID - Princípios L e I
+- [x] 27.6 - Projeto - Trybers and Dragons
 
-##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
+##### Bloco 28: Projeto - TFC - Trybe Futebol Clube <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 28.1 - Projeto - TFC - Trybe Futebol Clube
+- [x] 28.1 - Projeto - TFC - Trybe Futebol Clube
 
-##### Bloco 29: Introdução ao MongoDB
+##### Bloco 29: Introdução ao MongoDB ![loading](assets/img/hug.gif)
 
 - [ ] 29.1 - MongoDB - Introdução
 - [ ] 29.2 - Filter Operators
@@ -489,20 +489,20 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 26.3 - Express with TypeScript
 - [x] 26.4 - Project - Trybesmith
 
-##### Block 27: Object Oriented Programming (OOP) and SOLID ![loading](assets/img/hug.gif)
+##### Block 27: Object Oriented Programming (OOP) and SOLID <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 27.1 - Introduction to Object Orientation
-- [ ] 27.2 - Inheritance and Composition
-- [ ] 27.3 - Polymorphism
-- [ ] 27.4 - SOLID - Introduction and Principles S, O and D
-- [ ] 27.5 - SOLID - Principles L and I
-- [ ] 27.6 - Project - Trybers and Dragons
+- [x] 27.1 - Introduction to Object Orientation
+- [x] 27.2 - Inheritance and Composition
+- [x] 27.3 - Polymorphism
+- [x] 27.4 - SOLID - Introduction and Principles S, O and D
+- [x] 27.5 - SOLID - Principles L and I
+- [x] 27.6 - Project - Trybers and Dragons
 
-##### Block 28: Project - TFC - Trybe Futebol Clube
+##### Block 28: Project - TFC - Trybe Futebol Clube <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 28.1 - Project - TFC - Trybe Futebol Clube
+- [x] 28.1 - Project - TFC - Trybe Futebol Clube
 
-##### Block 29: Introduction to MongoDB
+##### Block 29: Introduction to MongoDB ![loading](assets/img/hug.gif)
 
 - [ ] 29.1 - MongoDB - Introduction
 - [ ] 29.2 - Filter Operators
