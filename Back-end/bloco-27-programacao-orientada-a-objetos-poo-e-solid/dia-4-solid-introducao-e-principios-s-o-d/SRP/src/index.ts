@@ -6,10 +6,15 @@ type Discipline = {
   letterGrade?: string;
 };
 
+type School = {
+  name: string;
+  approvalGrade: number;
+};
+
 type Student = {
   name: string;
   disciplines: Discipline[];
-  school?: string;
+  school: School; // Agora não é mais uma string
 };
 
 /* Apoio para a função `getGradeLetter` */
@@ -41,8 +46,8 @@ const percentageGradesIntoLetters = (student: Student): Student => ({
 });
 
 /* "Determinar" */
-const approvedStudents = ({ disciplines }: Student): boolean =>
-  disciplines.every(({ grade }) => grade > 0.7);
+const approvedStudents = ({ disciplines, school }: Student): boolean =>
+  disciplines.every(({ grade }) => grade >= school.approvalGrade);
 
 /* "Atualizar" */
 const updateApprovalData = (student: Student): void => {
