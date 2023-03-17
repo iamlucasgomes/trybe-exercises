@@ -218,16 +218,16 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 - [x] 28.1 - Projeto - TFC - Trybe Futebol Clube
 
-##### Bloco 29: Introdução ao MongoDB ![loading](assets/img/hug.gif)
+##### Bloco 29: Introdução ao MongoDB <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 29.1 - MongoDB - Introdução
-- [ ] 29.2 - Filter Operators
-- [ ] 29.3 - Operadores de consulta
-- [ ] 29.4 - Updates Simples
-- [ ] 29.5 - Updates Complexos - Arrays
-- [ ] 29.6 - Projeto - Commerce
+- [x] 29.1 - MongoDB - Introdução
+- [x] 29.2 - Filter Operators
+- [x] 29.3 - Operadores de consulta
+- [x] 29.4 - Updates Simples
+- [x] 29.5 - Updates Complexos - Arrays
+- [x] 29.6 - Projeto - Commerce
 
-##### Bloco 30: APIs OO e NoSQL
+##### Bloco 30: APIs OO e NoSQL ![loading](assets/img/hug.gif)
 
 - [ ] 30.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
 - [ ] 30.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
@@ -502,16 +502,16 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 - [x] 28.1 - Project - TFC - Trybe Futebol Clube
 
-##### Block 29: Introduction to MongoDB ![loading](assets/img/hug.gif)
+##### Block 29: Introduction to MongoDB <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 29.1 - MongoDB - Introduction
-- [ ] 29.2 - Filter Operators
-- [ ] 29.3 - Query operators
-- [ ] 29.4 - Simple Updates
-- [ ] 29.5 - Complex Updates - Arrays
-- [ ] 29.6 - Project - Commerce
+- [x] 29.1 - MongoDB - Introduction
+- [x] 29.2 - Filter Operators
+- [x] 29.3 - Query operators
+- [x] 29.4 - Simple Updates
+- [x] 29.5 - Complex Updates - Arrays
+- [x] 29.6 - Project - Commerce
 
-##### Block 30: OO and NoSQL APIs
+##### Block 30: OO and NoSQL APIs ![loading](assets/img/hug.gif)
 
 - [ ] 30.1 - Object-oriented and NoSQL APIs: OOP and ODMs
 - [ ] 30.2 - Object-oriented APIs and NoSQL: Inheritance and Abstraction
