@@ -229,8 +229,8 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ##### Bloco 30: APIs OO e NoSQL ![loading](assets/img/hug.gif)
 
-- [ ] 30.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
-- [ ] 30.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
+- [x] 30.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
+- [x] 30.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
 - [ ] 30.3 - Projeto - Car Shop
 
 ##### Bloco 31: Projeto - App de Delivery
@@ -513,8 +513,8 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ##### Block 30: OO and NoSQL APIs ![loading](assets/img/hug.gif)
 
-- [ ] 30.1 - Object-oriented and NoSQL APIs: OOP and ODMs
-- [ ] 30.2 - Object-oriented APIs and NoSQL: Inheritance and Abstraction
+- [x] 30.1 - Object-oriented and NoSQL APIs: OOP and ODMs
+- [x] 30.2 - Object-oriented APIs and NoSQL: Inheritance and Abstraction
 - [ ] 30.3 - Project - Car Shop
 
 ##### Block 31: Project - Delivery App
