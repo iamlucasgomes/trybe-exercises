@@ -227,13 +227,13 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 29.5 - Updates Complexos - Arrays
 - [x] 29.6 - Projeto - Commerce
 
-##### Bloco 30: APIs OO e NoSQL ![loading](assets/img/hug.gif)
+##### Bloco 30: APIs OO e NoSQL <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 30.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
 - [x] 30.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
-- [ ] 30.3 - Projeto - Car Shop
+- [x] 30.3 - Projeto - Car Shop
 
-##### Bloco 31: Projeto - App de Delivery
+##### Bloco 31: Projeto - App de Delivery ![loading](assets/img/hug.gif)
 
 - [ ] 31.1 - Projeto - App de Delivery
 
@@ -511,13 +511,13 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 29.5 - Complex Updates - Arrays
 - [x] 29.6 - Project - Commerce
 
-##### Block 30: OO and NoSQL APIs ![loading](assets/img/hug.gif)
+##### Block 30: OO and NoSQL APIs <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 30.1 - Object-oriented and NoSQL APIs: OOP and ODMs
 - [x] 30.2 - Object-oriented APIs and NoSQL: Inheritance and Abstraction
-- [ ] 30.3 - Project - Car Shop
+- [x] 30.3 - Project - Car Shop
 
-##### Block 31: Project - Delivery App
+##### Block 31: Project - Delivery App ![loading](assets/img/hug.gif)
 
 - [ ] 31.1 - Project - Delivery App
 
