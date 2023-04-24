@@ -146,7 +146,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 - [x] 18.1 - Projeto - App de Receitas
 
-## Desenvolvimento Back-end ![loading](assets/img/hug.gif)
+## Desenvolvimento Back-end <img src="assets/img/check.gif" alt="Check" width="20px" >
  
 ##### Bloco 19: Docker: Utilizando Containers <img src="assets/img/check.gif" alt="Check" width="20px" >
 
@@ -233,55 +233,55 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 30.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
 - [x] 30.3 - Projeto - Car Shop
 
-##### Bloco 31: Projeto - App de Delivery ![loading](assets/img/hug.gif)
+##### Bloco 31: Projeto - App de Delivery <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 31.1 - Projeto - App de Delivery
+- [x] 31.1 - Projeto - App de Delivery
 
-## Ciência da Computação
+## Ciência da Computação ![loading](assets/img/hug.gif)
 
-##### Bloco 33: Arquitetura de Computadores e Redes
+##### Bloco 32: Introdução à Python ![loading](assets/img/hug.gif)
 
-- [ ] 33.1 - Introdução - Ciência da Computação
-- [ ] 33.2 - Arquitetura de Computadores
-- [ ] 33.3 - Arquitetura de redes
-- [ ] 33.4 - Redes de computadores, ferramentas e segurança
-- [ ] 33.5 - Projeto - Explorando os protocolos
+- [x] 32.1 - Aprendendo Python
+- [ ] 32.2 - Emtrada e Saída de Dados
+- [ ] 32.3 - Teste
+- [ ] 32.4 - Projeto - Job Insights
 
-##### Bloco 34: Introdução à Python e Raspagem de Dados da Web
+##### Bloco 33: Padrões de Projeto
 
-- [ ] 34.1 - Aprendendo Python
-- [ ] 34.2 - Entrada e Saída de dados
-- [ ] 34.3 - Raspagem de Dados
-- [ ] 34.4 - Testes
-- [ ] 34.5 - Projeto - Tech news
+- [ ] 33.1 - P.O.O em Python
+- [ ] 33.2 - Padrões - Iterator, Adapter, Strategy
+- [ ] 33.3 - Decorator, Observer, Factory
+- [ ] 33.4 - Projeto - Relatórios de Estoque
 
-##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
+##### Bloco 34: Raspagem de Dados 
 
-- [ ] 35.1 - Introdução à programação orientada a objetos
-- [ ] 35.2 - Herança, Composição e Interfaces
-- [ ] 35.3 - Padrões de projeto
-- [ ] 35.4 - Projeto - Relatórios de Estoque
+- [ ] 34.1 - Raspagem de Dados
+- [ ] 34.2 - Outras Ferramentas de Raspagem de Dados
+- [ ] 34.3 - Dia de Atividades - Crawlers + POO
+- [ ] 34.4 - Projeto - Tech news
 
-##### Bloco 36: Algoritmos e Estrutura de Dados
+##### Bloco 35: Algoritmos
 
-- [ ] 36.1 - Complexidade de Algoritmos
-- [ ] 36.2 - Recursividade e Estratégias para solução de problemas
-- [ ] 36.3 - Algoritmos de ordenação e busca
-- [ ] 36.4 - Projeto - Algoritmos
+- [ ] 35.1 - Complexidade de Algoritmos
+- [ ] 35.2 - Recursividade e Estratégias para solução de problemas
+- [ ] 35.3 - Algoritmos de ordenação e busca
+- [ ] 35.4 - Projeto - Algoritmos
 
-##### Bloco 37: Estrutura de Dados: Hash e Set
+##### Bloco 36: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 
-- [ ] 37.1 - Arrays
-- [ ] 37.2 - Hashmap e Dict
-- [ ] 37.3 - Set
-- [ ] 37.4 - Projeto - Restaurant Orders
+- [ ] 36.1 - Arquitetura de Computadores
+- [ ] 36.2 - Arquitetura de redes
+- [ ] 36.3 - Arrays
+- [ ] 36.4 - Nó e Listas Encadeadas
+- [ ] 36.5 - Pilhas e Filas
+- [ ] 36.6 - Projeto - TING - Trybe Is Not Google
 
-##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
+##### Bloco 37: Estrutura de Dados II: Hashmaps e Sets
 
-- [ ] 38.1 - Nó e Listas Encadeadas
-- [ ] 38.2 - Deque
-- [ ] 38.3 - Pilhas
-- [ ] 38.4 - Projeto - TING - Trybe Is Not Google
+- [ ] 37.1 - Hashmap e Dict 
+- [ ] 37.2 - Set
+- [ ] 37.3 - Pandas
+- [ ] 37.4 - Restaurant Orders
 
 <section id="EN">
 
@@ -430,7 +430,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 - [x] 18.1 - Project - Recipes App
 
-## Back-end development ![loading](assets/img/hug.gif)
+## Back-end development <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 ##### Block 19: Docker: Using Containers <img src="assets/img/check.gif" alt="Check" width="20px" >
 
@@ -517,52 +517,52 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 30.2 - Object-oriented APIs and NoSQL: Inheritance and Abstraction
 - [x] 30.3 - Project - Car Shop
 
-##### Block 31: Project - Delivery App ![loading](assets/img/hug.gif)
+##### Block 31: Project - Delivery App <img src="assets/img/check.gif" alt="Check" width="20px" >
 
-- [ ] 31.1 - Project - Delivery App
+- [x] 31.1 - Project - Delivery App
 
-## Computer Science
+## Computer Science Delivery App ![loading](assets/img/hug.gif)
 
-#### Block 33: Computer and Network Architecture
+##### Block 32: Introduction to Python Delivery App ![loading](assets/img/hug.gif)
 
-- [ ] 33.1 - Introduction - Computer Science
-- [ ] 33.2 - Computer Architecture
-- [ ] 33.3 - Network architecture
-- [ ] 33.4 - Computer networks, tools and security
-- [ ] 33.5 - Project - Exploring the protocols
+- [x] 32.1 - Learning Python
+- [ ] 32.2 - Data Input and Output
+- [ ] 32.3 - Test
+- [ ] 32.4 - Project - Job Insights
 
-##### Block 34: Introduction to Python and Web Data Scraping
+##### Block 33: Design Patterns
 
-- [ ] 34.1 - Learning Python
-- [ ] 34.2 - Data Input and Output
-- [ ] 34.3 - Data Scraping
-- [ ] 34.4 - Tests
-- [ ] 34.5 - Project - Tech news
+- [ ] 33.1 - P.O.O in Python
+- [ ] 33.2 - Patterns - Iterator, Adapter, Strategy
+- [ ] 33.3 - Decorator, Observer, Factory
+- [ ] 33.4 - Project - Inventory Reports
 
-##### Block 35: Object Oriented Programming and Design Patterns
+##### Block 34: Data Scraping
 
-- [ ] 35.1 - Introduction to object-oriented programming
-- [ ] 35.2 - Inheritance, Composition and Interfaces
-- [ ] 35.3 - Design Patterns
-- [ ] 35.4 - Project - Inventory Reports
+- [ ] 34.1 - Data Scraping
+- [ ] 34.2 - Other Data Scraping Tools
+- [ ] 34.3 - Activities Day - Crawlers + POO
+- [ ] 34.4 - Project - Tech news
 
-##### Block 36: Algorithms and Data Structure
+##### Block 35: Algorithms
 
-- [ ] 36.1 - Complexity of Algorithms
-- [ ] 36.2 - Recursion and Problem Solving Strategies
-- [ ] 36.3 - Sort and search algorithms
-- [ ] 36.4 - Project - Algorithms
+- [ ] 35.1 - Complexity of Algorithms
+- [ ] 35.2 - Recursion and Troubleshooting Strategies
+- [ ] 35.3 - Sorting and search algorithms
+- [ ] 35.4 - Project - Algorithms
 
-##### Block 37: Data Structure: Hash and Set
+##### Block 36: Data Structure I: Arrays, Lists, Queues and Stacks
 
-- [ ] 37.1 - Arrays
-- [ ] 37.2 - Hashmap and Dict
-- [ ] 37.3 - Sep
-- [ ] 37.4 - Project - Restaurant Orders
+- [ ] 36.1 - Computer Architecture
+- [ ] 36.2 - Network architecture
+- [ ] 36.3 - Arrays
+- [ ] 36.4 - Node and Linked Lists
+- [ ] 36.5 - Stacks and Queues
+- [ ] 36.6 - Project - TING - Trybe Is Not Google
 
-##### Block 38: Data Structure: Stacks, Queues and Lists
+##### Block 37: Data Structure II: Hashmaps and Sets
 
-- [ ] 38.1 - Node and Linked Lists
-- [ ] 38.2 - Deck
-- [ ] 38.3 - Batteries
-- [ ] 38.4 - Project - TING - Trybe Is Not Google
+- [ ] 37.1 - Hashmap and Dict
+- [ ] 37.2 - Sep
+- [ ] 37.3 - Pandas
+- [ ] 37.4 - Restaurant Orders
