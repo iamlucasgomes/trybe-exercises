@@ -242,7 +242,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 ##### Bloco 32: Introdução à Python ![loading](assets/img/hug.gif)
 
 - [x] 32.1 - Aprendendo Python
-- [ ] 32.2 - Emtrada e Saída de Dados
+- [ ] 32.2 - Entrada e Saída de Dados
 - [ ] 32.3 - Teste
 - [ ] 32.4 - Projeto - Job Insights
 
