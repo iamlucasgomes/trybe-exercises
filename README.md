@@ -243,7 +243,7 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 - [x] 32.1 - Aprendendo Python
 - [ ] 32.2 - Entrada e Saída de Dados
-- [ ] 32.3 - Teste
+- [ ] 32.3 - Testes
 - [ ] 32.4 - Projeto - Job Insights
 
 ##### Bloco 33: Padrões de Projeto
@@ -527,7 +527,7 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 - [x] 32.1 - Learning Python
 - [ ] 32.2 - Data Input and Output
-- [ ] 32.3 - Test
+- [ ] 32.3 - Tests
 - [ ] 32.4 - Project - Job Insights
 
 ##### Block 33: Design Patterns
