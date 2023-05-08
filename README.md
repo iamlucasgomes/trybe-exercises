@@ -239,17 +239,17 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ## Ciência da Computação ![loading](assets/img/hug.gif)
 
-##### Bloco 32: Introdução à Python ![loading](assets/img/hug.gif)
+##### Bloco 32: Introdução à Python <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 32.1 - Aprendendo Python
-- [ ] 32.2 - Entrada e Saída de Dados
-- [ ] 32.3 - Testes
-- [ ] 32.4 - Projeto - Job Insights
+- [x] 32.2 - Entrada e Saída de Dados
+- [x] 32.3 - Testes
+- [x] 32.4 - Projeto - Job Insights
 
-##### Bloco 33: Padrões de Projeto
+##### Bloco 33: Padrões de Projeto ![loading](assets/img/hug.gif)
 
-- [ ] 33.1 - P.O.O em Python
-- [ ] 33.2 - Padrões - Iterator, Adapter, Strategy
+- [x] 33.1 - P.O.O em Python
+- [x] 33.2 - Padrões - Iterator, Adapter, Strategy
 - [ ] 33.3 - Decorator, Observer, Factory
 - [ ] 33.4 - Projeto - Relatórios de Estoque
 
@@ -521,19 +521,19 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 - [x] 31.1 - Project - Delivery App
 
-## Computer Science Delivery App ![loading](assets/img/hug.gif)
+## Computer Science ![loading](assets/img/hug.gif)
 
-##### Block 32: Introduction to Python Delivery App ![loading](assets/img/hug.gif)
+##### Block 32: Introduction to Python <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 32.1 - Learning Python
-- [ ] 32.2 - Data Input and Output
-- [ ] 32.3 - Tests
-- [ ] 32.4 - Project - Job Insights
+- [x] 32.2 - Data Input and Output
+- [x] 32.3 - Tests
+- [x] 32.4 - Project - Job Insights
 
-##### Block 33: Design Patterns
+##### Block 33: Design Patterns ![loading](assets/img/hug.gif)
 
-- [ ] 33.1 - P.O.O in Python
-- [ ] 33.2 - Patterns - Iterator, Adapter, Strategy
+- [x] 33.1 - P.O.O in Python
+- [x] 33.2 - Patterns - Iterator, Adapter, Strategy
 - [ ] 33.3 - Decorator, Observer, Factory
 - [ ] 33.4 - Project - Inventory Reports
 
