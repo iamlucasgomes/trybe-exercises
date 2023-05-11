@@ -246,14 +246,14 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 - [x] 32.3 - Testes
 - [x] 32.4 - Projeto - Job Insights
 
-##### Bloco 33: Padrões de Projeto ![loading](assets/img/hug.gif)
+##### Bloco 33: Padrões de Projeto <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 33.1 - P.O.O em Python
 - [x] 33.2 - Padrões - Iterator, Adapter, Strategy
-- [ ] 33.3 - Decorator, Observer, Factory
-- [ ] 33.4 - Projeto - Relatórios de Estoque
+- [x] 33.3 - Decorator, Observer, Factory
+- [x] 33.4 - Projeto - Relatórios de Estoque
 
-##### Bloco 34: Raspagem de Dados 
+##### Bloco 34: Raspagem de Dados ![loading](assets/img/hug.gif)
 
 - [ ] 34.1 - Raspagem de Dados
 - [ ] 34.2 - Outras Ferramentas de Raspagem de Dados
@@ -530,14 +530,14 @@ This repository contains all exercises and projects developed by [me](https://ww
 - [x] 32.3 - Tests
 - [x] 32.4 - Project - Job Insights
 
-##### Block 33: Design Patterns ![loading](assets/img/hug.gif)
+##### Block 33: Design Patterns <img src="assets/img/check.gif" alt="Check" width="20px" >
 
 - [x] 33.1 - P.O.O in Python
 - [x] 33.2 - Patterns - Iterator, Adapter, Strategy
-- [ ] 33.3 - Decorator, Observer, Factory
-- [ ] 33.4 - Project - Inventory Reports
+- [x] 33.3 - Decorator, Observer, Factory
+- [x] 33.4 - Project - Inventory Reports
 
-##### Block 34: Data Scraping
+##### Block 34: Data Scraping ![loading](assets/img/hug.gif)
 
 - [ ] 34.1 - Data Scraping
 - [ ] 34.2 - Other Data Scraping Tools
