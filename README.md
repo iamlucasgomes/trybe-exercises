@@ -255,9 +255,9 @@ Este repositório contém todos os exercicios e projetos desenvolvidos por [mim]
 
 ##### Bloco 34: Raspagem de Dados ![loading](assets/img/hug.gif)
 
-- [ ] 34.1 - Raspagem de Dados
-- [ ] 34.2 - Outras Ferramentas de Raspagem de Dados
-- [ ] 34.3 - Dia de Atividades - Crawlers + POO
+- [x] 34.1 - Raspagem de Dados
+- [x] 34.2 - Outras Ferramentas de Raspagem de Dados
+- [x] 34.3 - Dia de Atividades - Crawlers + POO
 - [ ] 34.4 - Projeto - Tech news
 
 ##### Bloco 35: Algoritmos
@@ -539,9 +539,9 @@ This repository contains all exercises and projects developed by [me](https://ww
 
 ##### Block 34: Data Scraping ![loading](assets/img/hug.gif)
 
-- [ ] 34.1 - Data Scraping
-- [ ] 34.2 - Other Data Scraping Tools
-- [ ] 34.3 - Activities Day - Crawlers + POO
+- [x] 34.1 - Data Scraping
+- [x] 34.2 - Other Data Scraping Tools
+- [x] 34.3 - Activities Day - Crawlers + POO
 - [ ] 34.4 - Project - Tech news
 
 ##### Block 35: Algorithms
