@@ -12,3 +12,5 @@ category = input("Digite a categoria: ")
 books = db.books.find({"category": category})
 for book in books:
     print(book["title"])
+
+client.close()
